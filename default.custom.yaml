@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Jul 28 16:18:25 2018"
+  rime_version: 1.2.9
+patch:
+  menu:
+    page_size: 15
+  schema_list:
+    - {schema: double_pinyin_flypy}
+    - {schema: emoji}

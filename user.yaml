@@ -1,0 +1,12 @@
+var:
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: double_pinyin_flypy
+  previously_selected_theme: sougou
+  schema_access_time:
+    double_pinyin_flypy: 1532814901
+    emoji: 1532813284
+    luna_pinyin: 1532814264
+    terra_pinyin: 1498657186
