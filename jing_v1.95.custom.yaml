@@ -1,8 +1,0 @@
-patch:
-  "style/layout/max_entries": 10
-  "style/layout/all_phrases": true
-  "style/color_scheme": default
-  "style/comment_height": 10
-  "style/comment_text_size": 12
-  "style/inline_preedit": input
-  "style/show_window": false
