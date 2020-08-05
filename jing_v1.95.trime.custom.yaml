@@ -6,6 +6,7 @@ patch:
   "style/comment_text_size": 12
   "style/inline_preedit": input
   "style/show_window": false
+  "preset_keyboards/qwerty/keys/@2/click": Knumber
   "preset_keyboards/qwerty/keys/@8/long_click": '1'  #q
   "preset_keyboards/qwerty/keys/@9/long_click": '2'  #w
   "preset_keyboards/qwerty/keys/@10/long_click": '3' #e
