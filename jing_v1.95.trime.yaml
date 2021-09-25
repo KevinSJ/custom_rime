@@ -9,7 +9,7 @@ android_keys:
   __include: trime:/android_keys
 fallback_colors:
   __include: trime:/fallback_colors
-  __patch: 
+  __patch:
     rbc: key_back_color
     rhbc: hilited_key_back_color
     gbc: key_back_color
@@ -41,7 +41,7 @@ style:
   comment_height: 12 #编码提示区高度
   comment_text_size: 13 #编码提示字号
  #悬浮窗口設置
-  layout: 
+  layout:
     position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要≧Android5.0)
     min_length: 0 #最小词长
     max_length: 99 #超过字数则换行
@@ -227,7 +227,7 @@ preset_color_schemes:
       hctc: 0xD8DEDA
       hchtc: *白
       key_back_color: danguge11.png
-      hilited_key_back_color: danguge12.png 
+      hilited_key_back_color: danguge12.png
       fcdtc: *白
       fcdbc: danguge31.png
       fcdhbc: danguge32.png
@@ -267,9 +267,9 @@ preset_color_schemes:
     author: 单单
     __include: /preset_color_schemes/jing
     __patch:
-      hilited_candidate_text_color: 0xF06292 
+      hilited_candidate_text_color: 0xF06292
       hilited_comment_text_color: 0xF06292
-      hilited_text_color: 0x00a698 
+      hilited_text_color: 0x00a698
       bbc: danxuan21.png
       bhbc: danxuan22.png
       gbc: danxuan31.png
@@ -310,8 +310,8 @@ preset_color_schemes:
 keyboard: #键盘设置
  #全局
   T: &t1 20 #符号键盘长标签字号
-  O: &kpox 2 
-  O: &kpoy 2 
+  O: &kpox 2
+  O: &kpoy 2
  #伪状态栏
   H: &h1 36 #伪状态栏高度
   T: &t2 18 #伪状态栏字号
@@ -323,8 +323,8 @@ keyboard: #键盘设置
   H: &h12 50 #第4行高度
   H: &h13 5 #下边距
   O: &ksox 3 #offrest
-  O: &ksoy 1.1 
-  O: &khoy -1 
+  O: &ksoy 1.1
+  O: &khoy -1
  #36、40（1+42+48*3+44+5=236）
   H: &h20 1 #上边距
   H: &h21 42 #第1行高度
@@ -458,7 +458,7 @@ preset_keyboards:
     key_press_offset_x: *kpox
     key_press_offset_y: *kpoy
     key_hint_offset_y: *khoy
-    keys: 
+    keys:
     - {click: '', width: 1, height: *h1, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Mode_switch, composing: ' ', width: 18, key_text_size: *t2, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Zenkaku_Hankaku, composing: ' ', width: 18, key_text_size: *t2, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -590,7 +590,7 @@ preset_keyboards:
     key_press_offset_x: *kpox
     key_press_offset_y: *kpoy
     key_hint_offset_y: *khoy
-    keys: 
+    keys:
     - {click: '', width: 1, height: *h1, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Mode_switch, composing: ' ', width: 18, key_text_size: *t2, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Zenkaku_Hankaku, composing: ' ', width: 18, key_text_size: *t2, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -754,8 +754,8 @@ preset_keyboards:
     - {width: 100, height: *h52} #下边距
 
   functions:
-    name: 功能 
-    author: 单单 
+    name: 功能
+    author: 单单
     ascii_mode: 0
     width: 25
     height: *h51
@@ -787,13 +787,13 @@ preset_keyboards:
 
   edit:
     name: 编辑
-    author: 单单 
+    author: 单单
     ascii_mode: 0
     width: 20
     height: *h31
     key_press_offset_x: *kpox
     key_press_offset_y: *kpoy
-    keys: 
+    keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Kemoji, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -3937,7 +3937,7 @@ preset_keyboards:
     name: "emoji17"
     author: flypy.com
     width: 13.5
-    height: *h41    
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -3987,7 +3987,7 @@ preset_keyboards:
     name: "emoji17"
     author: flypy.com
     width: 13.5
-    height: *h41    
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4033,12 +4033,12 @@ preset_keyboards:
     - {click: Kemoji17a, width: 12.5, key_back_color: fcdbc, hilited_key_back_color: fcdhbc, key_text_color: fcdtc, hilited_key_text_color: fcdhtc}
     - {click: Kemoji2y, width: 12.5}
     - {width: 100, height: *h42}
-  
+
   emoji21a:
     name: "emoji21"
     author: flypy.com
     width: 13.5
-    height: *h41    
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4088,7 +4088,7 @@ preset_keyboards:
     name: "emoji21"
     author: flypy.com
     width: 13.5
-    height: *h41  
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4238,7 +4238,7 @@ preset_keyboards:
     name: "emoji22"
     author: flypy.com
     width: 13.5
-    height: *h41 
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4288,7 +4288,7 @@ preset_keyboards:
     name: "emoji23"
     author: flypy.com
     width: 13.5
-    height: *h41   
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4338,7 +4338,7 @@ preset_keyboards:
     name: "emoji23"
     author: flypy.com
     width: 13.5
-    height: *h41 
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -4388,7 +4388,7 @@ preset_keyboards:
     name: "emoji24"
     author: flypy.com
     width: 13.5
-    height: *h41 
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5139,7 +5139,7 @@ preset_keyboards:
     name: "emoji35"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5189,7 +5189,7 @@ preset_keyboards:
     name: "emoji36"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5240,7 +5240,7 @@ preset_keyboards:
     name: "emoji41"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5290,7 +5290,7 @@ preset_keyboards:
     name: "emoji42"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5340,7 +5340,7 @@ preset_keyboards:
     name: "emoji42"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5390,7 +5390,7 @@ preset_keyboards:
     name: "emoji43"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5440,7 +5440,7 @@ preset_keyboards:
     name: "emoji43"
     author: flypy.com
     width: 13.5
-    height: *h41         
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5490,7 +5490,7 @@ preset_keyboards:
     name: "emoji44"
     author: flypy.com
     width: 13.5
-    height: *h41    
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -5640,7 +5640,7 @@ preset_keyboards:
     name: "emoji46"
     author: flypy.com
     width: 13.5
-    height: *h41	
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -6041,7 +6041,7 @@ preset_keyboards:
     name: "emoji56"
     author: flypy.com
     width: 13.5
-    height: *h41	
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -6442,7 +6442,7 @@ preset_keyboards:
     name: "emoji66"
     author: flypy.com
     width: 13.5
-    height: *h41	
+    height: *h41
     keys:
     - {click: Ksymbols0, width: 16.6, height: *h1, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
     - {click: Knumber1, width: 16.6, key_text_size: *t3, key_text_color: hxtc, hilited_key_text_color: hxhtc, key_back_color: hxbc, hilited_key_back_color: hxhbc}
@@ -7451,7 +7451,7 @@ preset_keys:
  #rime状态
   Mode_switch: {toggle: ascii_mode, send: Mode_switch, states: [ 中 / 英, 英 / 中 ]}
   Zenkaku_Hankaku: {toggle: full_shape, send: Mode_switch, states: [ 半 / 全, 全 / 半 ]}
-  Henkan: {toggle: simplification, send: Mode_switch, states: [ 繁 / 简, 简 / 繁 ]}
+  Henkan: {toggle: simplification, send: Mode_switch, states: [ 简 / 繁, 繁 / 简 ]}
   Punct_switch: {toggle: ascii_punct, send: Mode_switch, states: [ 。/．, . /。 ]}
   Candidate_switch: {toggle: _hide_candidate, send: Mode_switch, states: [ 关闭候选, 开启候选]}
   Comment_switch: {toggle: _hide_comment, send: Mode_switch, states: [ 关闭注释, 开启注释]}
