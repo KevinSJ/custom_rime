@@ -1,7 +1,7 @@
 # Trime style settings
 # encoding: utf-8
 
-config_version: '2.2'
+config_version: '2.5'
 name: 单静 #方案名称
 author: '单单 <cxprcn@gmail.com>' #作者资讯
 
@@ -25,6 +25,7 @@ conf:
     height: 60 #按键高度
     key_press_offset_x: 2
     key_press_offset_y: 2
+    round_corner: 0
     keys/+:
       - width: 0 #底部留白开关
         height: 1 #底部留白
@@ -38,6 +39,7 @@ conf:
     - 单静.patch.无障碍:/main?
 
 style:
+  __include: trime:/style
   color_scheme: default #默认配色方案
   horizontal: true #水平模式。改变方向键的功能 （true：方向键适配横排候选；false：方向键适配竖排候选）
   reset_ascii_mode: false #显示键盘时重置为中文状态
@@ -56,21 +58,18 @@ style:
       - number
       - func
       - edit
-      - xkjd6zj
-      - xklbzj
-      - xkybzj
 
   # 候选区
   ## 候选
   candidate_use_cursor: true #高亮候选项
-  candidate_view_height: 30 #候选区高度
+  candidate_view_height: 33 #候选区高度
   candidate_padding: 5 #候选项内边距
   candidate_spacing: 0.5 #候选间距
   candidate_font: han.ttf #候选字型
   candidate_text_size: 20 #候选字号
   ## 编码
   comment_on_top: false #编码提示在上方或右侧
-  comment_height: 12 #编码提示区高度
+  comment_height: 15 #编码提示区高度
   comment_font: comment.ttf #编码提示字型
   comment_text_size: 12 #编码提示字号
 
@@ -119,7 +118,8 @@ style:
     # 整体样式
     position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要>=Android5.0)
     movable: false #是否可移动窗口，或仅移动一次 true|false|once
-    spacing: -1 #与预编辑或边缘的距离
+    real_margin: 0 #屏幕左右边缘和悬浮窗之间的距离
+    spacing: -1 #屏幕上下边缘或预编辑上下边缘和悬浮窗之间的距离
     margin_x: 5 #水平边距
     margin_y: 1 #竖直边距
     border: 0 #边框宽度
@@ -141,6 +141,7 @@ style:
     line_spacing_multiplier: 1.1 #候选词的行间距(倍数)
 
 fallback_colors:
+  __include: trime:/fallback_colors
   # 悬浮窗
   border_color: back_color #悬浮窗边框
   label_color: hilited_text_color #标签（候选序号）
@@ -208,6 +209,7 @@ preset_color_schemes:
   default:
     name: 默认 #方案名称
     author: '单单 <cxprcn@gmail.com>' #作者资讯
+    dark_scheme: google_black
     # 悬浮窗
     # border_color: back_color #悬浮窗边框
     # label_color: hilited_text_color #标签（候选序号）
@@ -220,7 +222,7 @@ preset_color_schemes:
     # candidate_separator_color: back_color #候选分割线
     back_color: 0xD7D9DD #候选栏背景 灰
     # candidate_text_color: hilited_text_color #候选文字
-    comment_text_color: gray #提示
+    comment_text_color: 0x808080 #提示
     # hilited_candidate_back_color: back_color #高亮候选背景
     # hilited_candidate_text_color: text_color #高亮候选文字
     # hilited_comment_text_color: hilited_candidate_text_color #高亮提示
@@ -247,16 +249,16 @@ preset_color_schemes:
     hilited_off_key_back_color: danjing.default/hilited_off_key.png #高亮功能键背景
     # hilited_off_key_text_color: off_key_text_color #高亮功能键文字
     on_key_back_color: danjing.default/shift.png #shift锁定时背景
-    on_key_text_color: white #shift锁定时文字
+    on_key_text_color: 0xFFFFFF #shift锁定时文字
     hilited_on_key_back_color: danjing.default/hilited_shift.png #高亮shift锁定时背景
     # hilited_on_key_text_color: on_key_text_color #高亮shift锁定时文字
     enter_back_color: danjing.default/enter.png #enter背景 ※
     enter_text_color: 0x00 #enter文字 高亮enter文字※
-    enter_symbol_color: white #enter符号 高亮enter符号※
+    enter_symbol_color: 0xFFFFFF #enter符号 高亮enter符号※
     hilited_enter_back_color: danjing.default/hilited_enter.png #高亮enter背景 ※
 
     # 附键盘
-    key_back_color: white #按键背景
+    key_back_color: 0xFFFFFF #按键背景
     # hilited_key_back_color: back_color #高亮按键背景
     # off_sym_back_color: back_color #功能键背景 ※
     # off_sym_text_color: off_key_text_color #功能键文字 ※
@@ -274,6 +276,7 @@ preset_color_schemes:
   google_black:
     name: 谷歌黑 #方案名称
     author: '单单 <cxprcn@gmail.com>' #作者资讯
+    light_scheme: default
     # 悬浮窗
     # border_color: back_color #悬浮窗边框
     # label_color: hilited_text_color #标签（候选序号）
@@ -299,7 +302,7 @@ preset_color_schemes:
     # preview_text_color: key_text_color #按键提示文字
     # key_text_color: candidate_text_color #按键文字
     # key_symbol_color: comment_text_color #按键符号
-    hilited_key_text_color: white #高亮按键文字
+    hilited_key_text_color: 0xFFFFFF #高亮按键文字
     # hilited_key_symbol_color: key_symbol_color #高亮按键符号
 
     # 主键盘
@@ -311,7 +314,7 @@ preset_color_schemes:
     # off_key_text_color: key_text_color #功能键文字
     # off_key_symbol_color: off_key_text_color #功能键符号 高亮功能键符号※
     hilited_off_key_back_color: danjing.google_black/hilited_off_key.png #高亮功能键背景
-    hilited_off_key_text_color: white #高亮功能键文字
+    hilited_off_key_text_color: 0xFFFFFF #高亮功能键文字
     on_key_back_color: danjing.google_black/shift.png #shift锁定时背景
     # on_key_text_color: hilited_key_text_color #shift锁定时文字
     hilited_on_key_back_color: danjing.google_black/hilited_shift.png #高亮shift锁定时背景
@@ -340,6 +343,7 @@ preset_color_schemes:
   google_white:
     name: 谷歌白
     author: '单单 <cxprcn@gmail.com>'
+    dark_scheme: google_black
     # 悬浮窗
     # border_color: back_color #悬浮窗边框
     # label_color: hilited_text_color #标签（候选序号）
@@ -352,7 +356,7 @@ preset_color_schemes:
     # candidate_separator_color: back_color #候选分割线
     back_color: 0xECEFF1 #候选栏背景
     # candidate_text_color: hilited_text_color #候选文字
-    comment_text_color: gray #提示
+    comment_text_color: 0x808080 #提示
     # hilited_candidate_back_color: back_color #高亮候选背景
     hilited_candidate_text_color: 0x333333 #高亮候选文字
     # hilited_comment_text_color: hilited_candidate_text_color #高亮提示
@@ -379,7 +383,7 @@ preset_color_schemes:
     hilited_off_key_back_color: danjing.google_white/hilited_off_key.png #高亮功能键背景
     # hilited_off_key_text_color: off_key_text_color #高亮功能键文字
     on_key_back_color: danjing.google_white/shift.png #shift锁定时背景
-    on_key_text_color: white #shift锁定时文字
+    on_key_text_color: 0xFFFFFF #shift锁定时文字
     hilited_on_key_back_color: danjing.google_white/hilited_shift.png #高亮shift锁定时背景
     # hilited_on_key_text_color: on_key_text_color #高亮shift锁定时文字
     # enter_back_color: on_key_back_color #enter背景 ※
@@ -406,6 +410,7 @@ preset_color_schemes:
   pink_blue:
     name: 粉蓝
     author: '单单 <cxprcn@gmail.com>'
+    dark_scheme: google_black
     # 悬浮窗
     # border_color: back_color #悬浮窗边框
     # label_color: hilited_text_color #标签（候选序号）
@@ -416,9 +421,9 @@ preset_color_schemes:
 
     # 候选栏
     # candidate_separator_color: back_color #候选分割线
-    back_color: 0xfbe3d7 #候选栏背景
+    back_color: 0xFBE3D7 #候选栏背景
     # candidate_text_color: hilited_text_color #候选文字
-    comment_text_color: gray #提示
+    comment_text_color: 0x808080 #提示
     # hilited_candidate_back_color: back_color #高亮候选背景
     hilited_candidate_text_color: 0x333333 #高亮候选文字
     # hilited_comment_text_color: hilited_candidate_text_color #高亮提示
@@ -445,7 +450,7 @@ preset_color_schemes:
     hilited_off_key_back_color: danjing.pink_blue/hilited_off_key.png #高亮功能键背景
     # hilited_off_key_text_color: off_key_text_color #高亮功能键文字
     on_key_back_color: danjing.pink_blue/shift.png #shift锁定时背景
-    on_key_text_color: white #shift锁定时文字
+    on_key_text_color: 0xFFFFFF #shift锁定时文字
     hilited_on_key_back_color: danjing.pink_blue/hilited_shift.png #高亮shift锁定时背景
     # hilited_on_key_text_color: on_key_text_color #高亮shift锁定时文字
     # enter_back_color: on_key_back_color #enter背景 ※
@@ -463,11 +468,12 @@ preset_color_schemes:
     # hilited_off_sym_text_color: hilited_off_key_text_color #高亮功能键文字 ※
     enter_sym_back_color: 0x249DD6 # enter背景 ※
     # enter_sym_text_color: on_key_text_color #enter文字 高亮enter文字※
-    hilited_enter_sym_back_color: 0xeebfac #高亮enter背景 ※
+    hilited_enter_sym_back_color: 0xEEBFAC #高亮enter背景 ※
     # menu_back_color: off_sym_back_color #菜单背景 ※
     # menu_text_color: off_sym_text_color #菜单文字 ※
     # hilited_menu_back_color: key_back_color #高亮菜单背景 ※
     # hilited_menu_text_color: enter_sym_back_color #高亮菜单文字 ※
+    # sub_keyboard_background: key_back_color #键盘背景 ※
 
 # 按键样式
 styl:
@@ -486,8 +492,6 @@ styl:
 
 preset_keyboards:
   __include: danjing:/preset_keyboards
-  __patch:
-    - 单静.patch.星空助记:/preset_keyboards?
 
   default:
     name: 默认26键
@@ -525,7 +529,13 @@ preset_keyboards:
       # 第 2 行
       - { width: 5 }
       - { click: 'a', long_click: select_all, __include: styl/key }
-      - { click: 's', long_click: '-', __include: styl/key }
+      - {
+          click: 's',
+          long_click: '-',
+          swipe_down: '~',
+          hint: '~',
+          __include: styl/key,
+        }
       - {
           click: 'd',
           long_click: '_',
@@ -565,13 +575,7 @@ preset_keyboards:
       - { click: 'l', long_click: ';', __include: styl/key }
       # 第 3 行
       - { click: Shift_L, composing: split_word, width: 15 }
-      - {
-          click: 'z',
-          long_click: '`',
-          swipe_down: '~',
-          hint: '~',
-          __include: styl/key,
-        }
+      - { click: 'z', long_click: '`', __include: styl/key }
       - { click: 'x', long_click: cut, __include: styl/key }
       - { click: 'c', long_click: copy, __include: styl/key }
       - { click: 'v', long_click: paste, __include: styl/key }
@@ -613,7 +617,8 @@ preset_keyboards:
       - { click: ',', long_click: '/', width: 12, __include: styl/key }
       - {
           click: space,
-          long_click: Keyboard_letter,
+          long_click: Mode_switch_space,
+          key_symbol_offset_x: 0,
           width: 37,
           key_back_color: space_back_color,
           hilited_key_back_color: hilited_space_back_color,
@@ -645,16 +650,9 @@ preset_keyboards:
     __patch:
       'keys/@33/long_click': Keyboard_default
 
-  flypy:
-    name: 二重
-    __include: preset_keyboards/default
-    __patch:
-      'keys/@21/composing': select_second
-      'keys/@34/composing': '.'
-
   qwertys:
     name: 默认27键
-    __include: preset_keyboards/flypy
+    __include: preset_keyboards/default
     __patch:
       'keys/@11/width': 0
       'keys/@17/hint': ' '
@@ -667,6 +665,7 @@ preset_keyboards:
         width: 10
         __include: styl/key
       'keys/@21/composing': split_word
+      'keys/@34/composing': '.'
 
   qwerty_:
     name: 默认30键
@@ -729,7 +728,7 @@ preset_keyboards:
       # 第四行
       - { click: '=', long_click: '≠' }
       - { click: '/', long_click: '÷' }
-      - { click: space }
+      - { click: space, long_click: paste}
       - { click: 0 }
       - { click: '.' }
       - {
@@ -784,14 +783,14 @@ preset_keyboards:
       - { click: Schema_settings, __include: styl/off_func }
       - { click: Theme_settings, __include: styl/off_func }
       - { click: Settings, __include: styl/off_func }
-      - { click: kb_qwerty, __include: styl/off_func }
-      - { click: kb_qwertys, __include: styl/off_func }
-      - { click: kb_qwerty_, __include: styl/off_func }
       - { click: kb_edit, __include: styl/off_func }
       - { click: Zdic, __include: styl/off_func }
       - { click: MoeDict, __include: styl/off_func }
       - { click: VOICE_ASSIST, __include: styl/off_func }
-      - { click: '', __include: styl/off_func }
+      - { click: IME_switch, __include: styl/off_func }
+      - { click: kb_qwerty, __include: styl/off_func }
+      - { click: kb_qwertys, __include: styl/off_func }
+      - { click: kb_qwerty_, __include: styl/off_func }
 
 android_keys:
   __include: trime:/android_keys
@@ -901,13 +900,13 @@ preset_keys:
     { toggle: extended_charset, send: Mode_switch, states: [常用, 增广] }
   Punct_switch: { toggle: ascii_punct, send: Mode_switch, states: [。，, ．，] }
   Candidate_switch:
-    { toggle: _hide_candidate, send: Mode_switch, states: [关闭候选, 开启候选] }
+    { toggle: _hide_candidate, send: Mode_switch, states: [有候选, 无候选] }
   Comment_switch:
-    { toggle: _hide_comment, send: Mode_switch, states: [关闭注释, 开启注释] }
+    { toggle: _hide_comment, send: Mode_switch, states: [有注释, 无注释] }
   Hint_switch:
-    { toggle: _hide_key_hint, send: Mode_switch, states: [关闭助记, 开启助记] }
+    { toggle: _hide_key_hint, send: Mode_switch, states: [有下标, 无下标] }
   # trime设定
-  IME_switch: { label: 选择输入法, send: LANGUAGE_SWITCH } #弹出对话框选择输入法
+  IME_switch: { label: 输入法, send: LANGUAGE_SWITCH } #弹出对话框选择输入法
   IME_last: { label: 上一输入法, send: LANGUAGE_SWITCH, select: .last } #直接切换到上一输入法
   IME_next: { label: 下一输入法, send: LANGUAGE_SWITCH, select: .next } #直接切换到下一输入法
   Schema_switch: { label: 下一方案, send: Control+Shift+1 }
@@ -919,14 +918,17 @@ preset_keys:
   Color_settings: { label: 配色, send: SETTINGS, option: 'color' }
   Theme_settings: { label: 主题, send: SETTINGS, option: 'theme' }
   Schema_settings: { label: 方案, send: SETTINGS, option: 'schema' }
+
   # trime键盘
+  Mode_switch_space:
+    { toggle: ascii_mode, send: Mode_switch, states: [' ', 'ascii'] }
   Keyboard_switch: { label: 键盘, send: Eisu_toggle, select: .next }
   Back: { label: 返回, send: Eisu_toggle, select: .default }
   Keyboard_default: { label: ' ', send: Eisu_toggle, select: .default }
-  kb_qwerty: { label: '26键', send: Eisu_toggle, select: default }
+  kb_qwerty: { label: ' ', send: Eisu_toggle, select: default }
   Keyboard_letter: { label: ' ', send: Eisu_toggle, select: letter }
-  kb_qwertys: { label: '27键', send: Eisu_toggle, select: qwertys }
-  kb_qwerty_: { label: '30键', send: Eisu_toggle, select: qwerty_ }
+  kb_qwertys: { label: ' ', send: Eisu_toggle, select: qwertys }
+  kb_qwerty_: { label: ' ', send: Eisu_toggle, select: qwerty_ }
   Keyboard_number: { label: '123', send: Eisu_toggle, select: number }
   Keyboard_symbols: { label: '۞', send: Eisu_toggle, select: symbols }
   kb_edit: { label: '编辑', send: Eisu_toggle, select: edit }
@@ -936,5 +938,3 @@ preset_keys:
   select_second: { label: '②', send: 2 }
   split_word: { label: "'分词", send: apostrophe }
   __include: danjing:/preset_keys
-  __patch:
-    - 单静.patch.星空助记:/preset_keys?
