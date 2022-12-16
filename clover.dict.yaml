@@ -18,5 +18,7 @@ import_tables:
   - dicts/THUOCL_medical
   - dicts/THUOCL_poem
   - dicts/sogou_new_words
+  - dicts/sogou_it
+  - dicts/easy_en
   - dicts/luna_pinyin.cn_en
 
