@@ -6,6 +6,7 @@ customization:
   rime_version: 1.2.9
 patch:
   "preset_keyboards/double_pinyin_flypy/import_preset": qwerty0
+  "style/hanb_font": HanaMinB.ttf
   "style/color_scheme": android
   "style/comment_height": 10
   "style/comment_text_size": 12
