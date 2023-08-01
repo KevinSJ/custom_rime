@@ -40,14 +40,14 @@ __number_patch:
    - {click: 1,long_click: "<"}
    - {click: 2, long_click: "|"}
    - {click: 3, long_click: ">"}
-   - {click: BackSpace, key_back_color: bbs, key_text_color: tbs}
+   - {click: Back, key_back_color: bgn, key_text_color: tgn}
      # 第二行
    - {click: _, key_back_color: bgn, key_text_color: tgn, long_click: "[]{Left}{Keyboard_default}"}
    - {click: "-", key_back_color: bgn, key_text_color: tgn, long_click: "%"}
    - {click: 4}
    - {click: 5}
    - {click: 6}
-   - {click: Return, key_back_color: bgn, key_text_color: tgn}
+   - {click: Delete, key_back_color: bgn, key_text_color: tgn}
      # 第三行
    - {click: "「」{Left}{Keyboard_default}", key_back_color: bgn, key_text_color: tgn, long_click: "『』{Left}{Keyboard_default}"}
    - {click: "*", key_back_color: bgn, key_text_color: tgn, long_click: "±"}
@@ -61,7 +61,13 @@ __number_patch:
    - {click: ., long_click: "(){Left}{Keyboard_default}", key_back_color: bgn, key_text_color: tgn }
    - {click: 0, long_click: cut}
    - {click: space, long_click: '!'}
-   - {click: Back, key_back_color: benter, key_text_color: tenter, long_click: Menu}
+   - {
+          click: Return,
+          key_back_color: enter_sym_back_color,
+          hilited_key_back_color: hilited_enter_sym_back_color,
+          key_text_color: enter_sym_text_color,
+          hilited_key_text_color: enter_sym_text_color,
+        }
 
 
 __patch:
