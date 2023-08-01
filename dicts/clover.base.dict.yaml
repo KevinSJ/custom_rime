@@ -23,7 +23,7 @@ sort: by_weight
 我	wo	143410901
 是	shi	142460771
 在	zai	117665455
-你	ni	117024827
+你	ni	117034827
 和	he	80350115
 有	you	74108065
 不	bu	71256971
@@ -40,12 +40,12 @@ sort: by_weight
 没	mei	35547507
 上	shang	34504741
 还	hai	34128878
-对	dui	33845754
+对	dui	33855754
 那	na	32521150
 人	ren	30387669
 个	ge	29770158
 看	kan	29508401
-中	zhong	29478171
+中	zhong	29468171
 呢	ne	29000283
 来	lai	28334141
 吗	ma	26514365
@@ -55,7 +55,7 @@ sort: by_weight
 与	yu	24599524
 给	gei	23186040
 等	deng	22151914
-这	zhe	21896611
+这	zhe	21886611
 用	yong	20303126
 把	ba	20010426
 下	xia	19811834
@@ -66,7 +66,7 @@ sort: by_weight
 做	zuo	18591831
 想	xiang	17123924
 被	bei	16729905
-后	hou	16720873
+后	hou	16710873
 点	dian	16660085
 而	er	16500253
 一	yi	16410190
@@ -102,8 +102,8 @@ sort: by_weight
 于	yu	9176556
 跟	gen	9038093
 太	tai	8617439
+号	hao	8567001
 日	ri	8559255
-号	hao	8557001
 才	cai	8544035
 嘛	ma	8536397
 发	fa	8470660
@@ -119,9 +119,9 @@ sort: by_weight
 其	qi	7105662
 话	hua	7035520
 出	chu	6851747
-请	qing	6830483
-钱	qian	6785711
+请	qing	6820483
 叫	jiao	6776451
+钱	qian	6775711
 开	kai	6687660
 当	dang	6507094
 哈	ha	6496022
@@ -134,7 +134,7 @@ sort: by_weight
 别	bie	5887712
 该	gai	5886917
 快	kuai	5834893
-谁	shui	5795881
+谁	shui	5821722
 前	qian	5741039
 由	you	5716343
 高	gao	5533323
@@ -145,28 +145,28 @@ sort: by_weight
 却	que	5355988
 已	yi	5329058
 内	nei	5025884
-写	xie	5004604
+写	xie	4994604
 啥	sha	4914051
 老	lao	4887943
 搞	gao	4848014
 事	shi	4771989
 只	zhi	4736622
+拿	na	4713496
 带	dai	4704173
-拿	na	4703496
 如	ru	4662985
 行	xing	4576048
 死	si	4489123
 卖	mai	4345338
-晕	yun	4334463
+晕	yun	4324463
 使	shi	4248575
 像	xiang	4247054
 成	cheng	4074240
 刚	gang	4067081
-无	wu	4061661
+无	wu	4051661
 换	huan	3974223
 回	hui	3914812
 哪	na	3912438
-爱	ai	3906018
+爱	ai	3896018
 听	ting	3860036
 少	shao	3806075
 元	yuan	3803657
@@ -191,7 +191,7 @@ sort: by_weight
 见	jian	3292845
 连	lian	3269495
 万	wan	3250371
-车	che	3225745
+车	che	3215745
 放	fang	3192161
 全	quan	3182365
 按	an	3171848
@@ -213,17 +213,17 @@ sort: by_weight
 讲	jiang	2789787
 杀	sha	2770532
 组	zu	2753041
-错	cuo	2718760
+错	cuo	2728760
 住	zhu	2714669
 些	xie	2707239
 名	ming	2697155
 跑	pao	2690214
-网	wang	2642069
+网	wang	2632069
 次	ci	2630107
 睡	shui	2604871
 装	zhuang	2580304
-正	zheng	2555003
-王	wang	2551644
+正	zheng	2565003
+王	wang	2561644
 外	wai	2545724
 挺	ting	2544142
 图	tu	2542912
@@ -233,19 +233,19 @@ sort: by_weight
 干	gan	2529791
 头	tou	2522677
 应	ying	2516977
+心	xin	2511916
 生	sheng	2510299
-心	xin	2501916
 强	qiang	2471042
 因	yin	2470106
 子	zi	2446029
 作	zuo	2397596
-书	shu	2390513
 类	lei	2383816
+书	shu	2380513
 每	mei	2374448
 送	song	2372559
 机	ji	2305897
-表	biao	2301457
 法	fa	2299221
+表	biao	2291457
 乖	guai	2278026
 市	shi	2266561
 哦	o	2255790
@@ -260,12 +260,12 @@ sort: by_weight
 非	fei	2167738
 此	ci	2165319
 级	ji	2154433
-哎	ai	2141602
+哎	ai	2151602
 道	dao	2135305
 副	fu	2132153
 差	cha	2122234
-线	xian	2119348
 版	ban	2113386
+线	xian	2109348
 地	de	2101681
 两	liang	2097891
 字	zi	2084740
@@ -280,23 +280,23 @@ sort: by_weight
 块	kuai	2048849
 手	shou	2037006
 长	zhang	2036361
-黄	huang	2029302
-猪	zhu	2011088
+黄	huang	2019302
 米	mi	2009436
-儿	er	1975511
+猪	zhu	2001088
 取	qu	1966185
 聊	liao	1966125
+儿	er	1965511
+难	nan	1965365
 低	di	1958604
-难	nan	1955365
 哇	wa	1955045
 受	shou	1926416
 包	bao	1915129
 阿	a	1906625
 白	bai	1904466
 喝	he	1896993
-门	men	1888143
 四	si	1887650
 金	jin	1887434
+门	men	1878143
 近	jin	1874497
 管	guan	1867844
 定	ding	1855902
@@ -317,8 +317,8 @@ sort: by_weight
 据	ju	1771049
 越	yue	1769544
 刷	shua	1768150
-面	mian	1762097
 位	wei	1756243
+面	mian	1752097
 群	qun	1736471
 贵	gui	1735118
 处	chu	1734007
@@ -337,38 +337,38 @@ sort: by_weight
 象	xiang	1658815
 变	bian	1658581
 数	shu	1656969
-红	hong	1649995
 查	cha	1644503
 半	ban	1644281
 咯	lo	1644181
+红	hong	1639995
 五	wu	1625445
 陈	chen	1623928
 格	ge	1617877
-顶	ding	1614137
-马	ma	1602618
+顶	ding	1604137
 方	fang	1599206
 楼	lou	1595165
 种	zhong	1594038
+马	ma	1592618
 读	du	1590200
 某	mou	1576244
 乱	luan	1574209
 条	tiao	1574083
 远	yuan	1572383
-热	re	1565355
+海	hai	1566896
 相	xiang	1559272
-海	hai	1556896
 挂	gua	1556753
+热	re	1555355
 单	dan	1551963
-风	feng	1547335
 光	guang	1543535
-满	man	1533563
+风	feng	1537335
+满	man	1523563
 且	qie	1523250
-额	e	1518684
 咋	za	1516409
 林	lin	1511701
+额	e	1508684
 化	hua	1489067
 班	ban	1481994
-涨	zhang	1480450
+涨	zhang	1470450
 滴	di	1468775
 约	yue	1465315
 关	guan	1460808
@@ -381,10 +381,10 @@ sort: by_weight
 俄	e	1436525
 信	xin	1431608
 报	bao	1431547
-饭	fan	1425891
 歌	ge	1424139
 若	ruo	1418000
 原	yuan	1415946
+饭	fan	1415891
 文	wen	1407653
 山	shan	1403219
 晚	wan	1400043
@@ -417,13 +417,13 @@ sort: by_weight
 岁	sui	1287019
 几	ji	1286800
 达	da	1286155
-龙	long	1284697
+龙	long	1274697
 费	fei	1273507
 共	gong	1269796
 离	li	1268056
-妈	ma	1264614
 西	xi	1263984
 明	ming	1256020
+妈	ma	1254614
 均	jun	1252696
 超	chao	1243350
 教	jiao	1238452
@@ -436,9 +436,9 @@ sort: by_weight
 特	te	1202318
 鸟	niao	1198768
 神	shen	1196650
+梦	meng	1193679
 鱼	yu	1187430
 哥	ge	1184269
-梦	meng	1183679
 甘	gan	1176943
 镇	zhen	1175756
 蛮	man	1167918
@@ -447,16 +447,16 @@ sort: by_weight
 值	zhi	1159581
 哭	ku	1158738
 陪	pei	1150734
-云	yun	1145473
 力	li	1145317
 建	jian	1145128
 口	kou	1144618
 冲	chong	1139582
 洗	xi	1135822
-画	hua	1132579
+云	yun	1135473
 懂	dong	1131098
 指	zhi	1130135
 双	shuang	1128535
+画	hua	1122579
 东	dong	1121559
 仍	reng	1121127
 球	qiu	1117550
@@ -468,10 +468,10 @@ sort: by_weight
 提	ti	1101063
 清	qing	1099739
 亿	yi	1087143
-猫	mao	1085828
+猫	mao	1075828
 通	tong	1071088
-药	yao	1069644
 酒	jiu	1067973
+药	yao	1059644
 票	piao	1048673
 六	liu	1045532
 饿	e	1045403
@@ -480,26 +480,26 @@ sort: by_weight
 假	jia	1032431
 久	jiu	1032085
 咩	mie	1031216
+抓	zhua	1030551
 平	ping	1025980
 套	tao	1023560
-抓	zhua	1020551
+城	cheng	1022773
 急	ji	1019546
-城	cheng	1012773
 左	zuo	1012023
 课	ke	1011260
 任	ren	1011211
 草	cao	1010959
-货	huo	1005498
 了	liao	1005001
-蓝	lan	1000736
 理	li	996770
 雨	yu	996170
 罗	luo	995950
+货	huo	995498
 唱	chang	995365
 县	xian	995342
-菜	cai	994664
 令	ling	993625
-哟	yo	993521
+蓝	lan	990736
+菜	cai	984664
+哟	yo	983521
 常	chang	981142
 较	jiao	978851
 抢	qiang	974845
@@ -507,7 +507,6 @@ sort: by_weight
 火	huo	965078
 集	ji	961314
 南	nan	959216
-操	cao	955473
 混	hun	955442
 感	gan	955222
 敢	gan	954285
@@ -515,6 +514,7 @@ sort: by_weight
 房	fang	950447
 脸	lian	947586
 局	ju	947261
+操	cao	945473
 退	tui	943820
 团	tuan	942763
 破	po	938170
@@ -528,27 +528,27 @@ sort: by_weight
 德	de	922689
 傻	sha	921294
 喊	han	920832
-叶	ye	914417
 沈	shen	911438
 整	zheng	910378
 跳	tiao	910082
 现	xian	909561
 华	hua	908984
 升	sheng	905413
-亲	qin	904750
 补	bu	904519
+叶	ye	904417
 养	yang	903971
 反	fan	901500
-电	dian	899581
 修	xiu	898027
+亲	qin	894750
 待	dai	891233
+电	dian	889581
+求	qiu	886885
 篇	pian	886230
 深	shen	882686
 砸	za	880572
 根	gen	878413
 投	tou	878350
 烦	fan	877641
-求	qiu	876885
 八	ba	873502
 知	zhi	870650
 乐	le	868507
@@ -561,11 +561,11 @@ sort: by_weight
 试	shi	848103
 北	bei	846700
 仅	jin	845593
+木	mu	845074
 长	chang	839701
 谢	xie	839444
 层	ceng	838949
 肉	rou	837123
-木	mu	835074
 率	lv	833059
 记	ji	830840
 七	qi	830615
@@ -574,12 +574,12 @@ sort: by_weight
 得	dei	827461
 需	xu	826683
 赵	zhao	825324
+胡	hu	824447
 厂	chang	822568
 派	pai	821853
 流	liu	819799
+石	shi	819547
 论	lun	819178
-胡	hu	814447
-石	shi	809547
 眼	yan	809543
 列	lie	809058
 招	zhao	807448
@@ -589,40 +589,39 @@ sort: by_weight
 冷	leng	803424
 香	xiang	802386
 封	feng	801721
-树	shu	796756
 易	yi	792902
 十	shi	790426
+树	shu	786756
+须	xu	785377
 价	jia	783721
 停	ting	781474
 付	fu	780874
 帅	shuai	780555
 阳	yang	778486
 军	jun	777560
-须	xu	775377
 油	you	773965
 排	pai	771432
-烟	yan	770214
 朱	zhu	769638
 身	shen	762909
-脚	jiao	756417
+烟	yan	760214
 星	xing	756204
 奥	ao	752722
-剑	jian	752613
-伤	shang	751623
 科	ke	751398
 随	sui	750996
 权	quan	749502
 场	chang	747455
 牌	pai	746944
+脚	jiao	746417
 翻	fan	745668
-谁	shei	744582
+泡	pao	744887
+剑	jian	742613
 章	zhang	742328
+伤	shang	741623
 体	ti	740830
 帖	tie	740550
 商	shang	738493
 库	ku	736891
 物	wu	736300
-泡	pao	734887
 背	bei	734173
 玉	yu	733720
 追	zhui	732875
@@ -637,6 +636,7 @@ sort: by_weight
 刀	dao	719951
 业	ye	719093
 孙	sun	719005
+谁	shei	718741
 室	shi	717602
 俩	lia	717408
 旧	jiu	716995
@@ -674,14 +674,13 @@ sort: by_weight
 徐	xu	678165
 呆	dai	675963
 亏	kui	675380
-烂	lan	673755
 布	bu	673347
 直	zhi	672268
 土	tu	671020
 师	shi	670934
 许	xu	670361
-签	qian	665934
 赢	ying	664271
+烂	lan	663755
 姐	jie	661301
 公	gong	660768
 苦	ku	660176
@@ -689,6 +688,7 @@ sort: by_weight
 喂	wei	659748
 诗	shi	657807
 苏	su	657209
+签	qian	655934
 秀	xiu	655558
 君	jun	655473
 余	yu	654819
@@ -700,7 +700,6 @@ sort: by_weight
 存	cun	650781
 素	su	650673
 烧	shao	649807
-鸡	ji	648319
 静	jing	648053
 准	zhun	647952
 断	duan	646413
@@ -709,17 +708,18 @@ sort: by_weight
 党	dang	644463
 汤	tang	643879
 冰	bing	643673
-奖	jiang	640942
 睇	di	640932
-绿	lv	640501
+抱	bao	639924
+鸡	ji	638319
 初	chu	638012
 忘	wang	636157
 供	gong	635256
 田	tian	631450
 造	zao	631140
+奖	jiang	630942
 案	an	630936
+绿	lv	630501
 钟	zhong	629970
-抱	bao	629924
 抽	chou	629058
 念	nian	626598
 项	xiang	623586
@@ -732,8 +732,8 @@ sort: by_weight
 宁	ning	616311
 嘴	zui	616234
 英	ying	610099
+果	guo	609442
 服	fu	608895
-灯	deng	608127
 扣	kou	606075
 百	bai	606036
 演	yan	605070
@@ -742,15 +742,15 @@ sort: by_weight
 填	tian	601003
 属	shu	600090
 保	bao	599899
-果	guo	599442
+灯	deng	598127
 言	yan	598051
 唐	tang	598049
 硬	ying	597993
 挖	wa	597726
 凡	fan	597391
+托	tuo	597143
 夏	xia	597037
 竟	jing	596355
-床	chuang	595964
 官	guan	595457
 莫	mo	595085
 寒	han	594151
@@ -764,19 +764,18 @@ sort: by_weight
 纯	chun	590015
 古	gu	589204
 寄	ji	588717
-卷	juan	587409
-托	tuo	587143
 源	yuan	586856
 桥	qiao	586719
+床	chuang	585964
 首	shou	585407
 戏	xi	584808
 思	si	582758
 亮	liang	581807
-困	kun	581105
 调	diao	580968
 删	shan	580107
 郭	guo	579798
 穷	qiong	577458
+卷	juan	577409
 粉	fen	573971
 折	zhe	573870
 爆	bao	573693
@@ -784,6 +783,7 @@ sort: by_weight
 韩	han	572188
 戴	dai	572118
 狼	lang	571579
+困	kun	571105
 松	song	569995
 然	ran	569760
 今	jin	568293
@@ -822,11 +822,9 @@ sort: by_weight
 句	ju	541674
 沙	sha	541132
 码	ma	540515
-赞	zan	539087
 友	you	538751
 河	he	537614
 丁	ding	535987
-滚	gun	535857
 界	jie	532971
 贼	zei	532492
 园	yuan	532254
@@ -835,6 +833,8 @@ sort: by_weight
 缺	que	530024
 步	bu	529405
 郑	zheng	529191
+赞	zan	529087
+滚	gun	525857
 尚	shang	525394
 必	bi	525003
 设	she	524962
@@ -858,7 +858,6 @@ sort: by_weight
 峰	feng	508897
 愿	yuan	506098
 灵	ling	505599
-惨	can	505011
 众	zhong	504073
 喔	o	501639
 踢	ti	499133
@@ -867,15 +866,18 @@ sort: by_weight
 甲	jia	495533
 迷	mi	495528
 搬	ban	495349
+惨	can	495011
 乃	nai	494265
 爸	ba	493590
 纸	zhi	490747
 拖	tuo	489874
 摸	mo	489832
+户	hu	489613
 圈	quan	488585
 塔	ta	487427
 曲	qu	486757
 足	zu	486405
+结	jie	486381
 呈	cheng	486336
 散	san	485694
 喜	xi	484860
@@ -885,7 +887,6 @@ sort: by_weight
 院	yuan	484077
 姓	xing	483640
 治	zhi	482040
-户	hu	479613
 洋	yang	478814
 呵	he	478456
 咬	yao	478038
@@ -894,7 +895,6 @@ sort: by_weight
 闪	shan	477806
 降	jiang	477674
 批	pi	476599
-结	jie	476381
 踩	cai	476181
 料	liao	475727
 嘎	ga	475306
@@ -905,6 +905,7 @@ sort: by_weight
 枪	qiang	471162
 狠	hen	470931
 逛	guang	470311
+杯	bei	469895
 瘦	shou	469221
 精	jing	469186
 疯	feng	468940
@@ -918,7 +919,6 @@ sort: by_weight
 杜	du	460975
 丽	li	460745
 救	jiu	460588
-杯	bei	459895
 倍	bei	459562
 堂	tang	458649
 展	zhan	458321
@@ -938,11 +938,9 @@ sort: by_weight
 音	yin	447579
 搜	sou	447451
 糖	tang	447110
-锁	suo	447085
 笔	bi	446709
 著	zhu	446571
 觉	jue	446205
-岛	dao	445897
 替	ti	444661
 弱	ruo	443804
 仲	zhong	443494
@@ -958,9 +956,10 @@ sort: by_weight
 紫	zi	437947
 巴	ba	437427
 细	xi	437348
-泪	lei	436330
+锁	suo	437085
 遍	bian	436247
 测	ce	436003
+岛	dao	435897
 酸	suan	435659
 武	wu	435561
 耶	ye	435066
@@ -981,6 +980,8 @@ sort: by_weight
 味	wei	427648
 陆	lu	427004
 环	huan	426886
+泪	lei	426330
+轮	lun	425795
 答	da	424057
 厚	hou	423498
 暗	an	422328
@@ -997,7 +998,6 @@ sort: by_weight
 洞	dong	416844
 顺	shun	416736
 谷	gu	415841
-轮	lun	415795
 登	deng	415135
 社	she	414813
 虎	hu	414685
@@ -1019,6 +1019,7 @@ sort: by_weight
 囧	jiong	406294
 熟	shu	403974
 形	xing	403038
+姜	jiang	402553
 净	jing	401192
 角	jiao	399277
 蛋	dan	399182
@@ -1032,7 +1033,6 @@ sort: by_weight
 盛	sheng	395420
 宫	gong	394080
 屁	pi	393341
-姜	jiang	392553
 拟	ni	391619
 圣	sheng	391359
 稳	wen	391128
@@ -1040,6 +1040,7 @@ sort: by_weight
 景	jing	390360
 免	mian	390346
 曹	cao	388147
+琴	qin	387558
 喽	lou	387470
 晓	xiao	387387
 肥	fei	387074
@@ -1051,9 +1052,7 @@ sort: by_weight
 良	liang	385086
 皆	jie	384491
 侯	hou	384346
-减	jian	383732
 尔	er	383408
-诶	ei	382739
 擦	ca	382393
 挣	zheng	382076
 夫	fu	381774
@@ -1063,7 +1062,6 @@ sort: by_weight
 砍	kan	378678
 永	yong	377723
 露	lu	377582
-琴	qin	377558
 怒	nu	376873
 兄	xiong	376722
 母	mu	376695
@@ -1075,8 +1073,9 @@ sort: by_weight
 巨	ju	374074
 税	shui	374074
 藉	ji	373989
-麦	mai	373712
+减	jian	373732
 例	li	372773
+诶	ei	372739
 视	shi	372617
 宏	hong	371473
 增	zeng	371274
@@ -1087,11 +1086,12 @@ sort: by_weight
 忍	ren	366569
 麻	ma	365072
 嫩	nen	364875
+咁	gan	364681
 宗	zong	364241
 扔	reng	364197
 腰	yao	364012
+麦	mai	363712
 争	zheng	363601
-针	zhen	363054
 义	yi	362328
 响	xiang	362286
 术	shu	362162
@@ -1104,7 +1104,6 @@ sort: by_weight
 臭	chou	360447
 敏	min	359017
 肖	xiao	358989
-咁	han	358921
 计	ji	358245
 氏	shi	357353
 末	mo	356529
@@ -1118,10 +1117,10 @@ sort: by_weight
 衣	yi	354700
 旁	pang	354040
 屋	wu	353869
+针	zhen	353054
 校	xiao	352969
 冯	feng	352906
 乘	cheng	352550
-虫	chong	351148
 尼	ni	350339
 佛	fu	350300
 劲	jin	350035
@@ -1140,7 +1139,6 @@ sort: by_weight
 灰	hui	346193
 绝	jue	346075
 维	wei	346025
-脑	nao	345951
 彩	cai	345638
 楚	chu	345573
 榜	bang	344788
@@ -1150,6 +1148,7 @@ sort: by_weight
 认	ren	342106
 评	ping	341813
 币	bi	341450
+虫	chong	341148
 还	huan	341101
 吊	diao	340570
 京	jing	340243
@@ -1164,13 +1163,12 @@ sort: by_weight
 具	ju	338208
 馆	guan	337724
 仁	ren	337173
-阴	yin	337060
 铜	tong	336939
 夹	jia	336895
-盐	yan	336673
 飘	piao	336487
 瑞	rui	336346
 添	tian	336137
+脑	nao	335951
 鲁	lu	335554
 威	wei	335333
 汇	hui	335195
@@ -1178,6 +1176,7 @@ sort: by_weight
 厅	ting	334506
 寻	xun	334095
 岩	yan	334079
+竹	zhu	333891
 族	zu	333235
 显	xian	333074
 挤	ji	332860
@@ -1196,7 +1195,9 @@ sort: by_weight
 黎	li	328854
 似	shi	327263
 洪	hong	327113
+阴	yin	327060
 讯	xun	326706
+盐	yan	326673
 容	rong	325980
 智	zhi	325499
 曾	zeng	325321
@@ -1205,7 +1206,6 @@ sort: by_weight
 拼	pin	324385
 辉	hui	324150
 撞	zhuang	323993
-竹	zhu	323891
 聚	ju	323192
 吕	lv	322655
 复	fu	322317
@@ -1219,7 +1219,6 @@ sort: by_weight
 侧	ce	320538
 哦	e	320101
 魏	wei	319950
-贝	bei	319936
 搭	da	319727
 诺	nuo	319622
 泽	ze	319485
@@ -1246,6 +1245,7 @@ sort: by_weight
 甜	tian	311781
 粗	cu	310878
 孟	meng	310604
+贝	bei	309936
 帐	zhang	309496
 劝	quan	308643
 启	qi	308599
@@ -1295,6 +1295,7 @@ sort: by_weight
 敲	qiao	290055
 巧	qiao	289397
 铺	pu	289171
+稍	shao	289100
 冬	dong	288827
 娜	na	288394
 淡	dan	288311
@@ -1307,8 +1308,8 @@ sort: by_weight
 泥	ni	285274
 萨	sa	285165
 怎	zen	284776
+豆	dou	284463
 扬	yang	283721
-营	ying	283350
 质	zhi	283320
 勇	yong	283213
 财	cai	283125
@@ -1326,12 +1327,10 @@ sort: by_weight
 磨	mo	280145
 乔	qiao	279883
 赌	du	279479
-稍	shao	279100
 栏	lan	278774
 攻	gong	278552
 链	lian	278313
 夸	kua	277350
-砖	zhuan	277215
 嫁	jia	277108
 泉	quan	276707
 汪	wang	276237
@@ -1340,11 +1339,11 @@ sort: by_weight
 隔	ge	275239
 薛	xue	275178
 征	zheng	274887
-豆	dou	274463
 绕	rao	274357
 仪	yi	274051
 贾	jia	273821
 临	lin	273770
+营	ying	273350
 顿	dun	273144
 凶	xiong	272934
 重	chong	272581
@@ -1358,10 +1357,12 @@ sort: by_weight
 赔	pei	271586
 雄	xiong	271552
 辆	liang	270927
+惊	jing	270837
 沟	gou	270102
 毁	hui	270096
 胸	xiong	269824
 失	shi	269821
+窗	chuang	269587
 崔	cui	269521
 速	su	269361
 健	jian	268874
@@ -1370,6 +1371,7 @@ sort: by_weight
 框	kuang	268319
 探	tan	268250
 拔	ba	267867
+砖	zhuan	267215
 暴	bao	267082
 艳	yan	266786
 洛	luo	266679
@@ -1386,14 +1388,13 @@ sort: by_weight
 透	tou	264103
 惠	hui	262303
 谭	tan	262261
+羽	yu	262194
 吖	ya	262101
 菲	fei	261691
 希	xi	261618
 炼	lian	260960
-惊	jing	260837
 残	can	260291
 剂	ji	259795
-窗	chuang	259587
 逗	dou	259564
 杆	gan	259561
 患	huan	258498
@@ -1406,17 +1407,16 @@ sort: by_weight
 扁	bian	255939
 昌	chang	255619
 贤	xian	255521
-虾	xia	255389
 愈	yu	254761
 捡	jian	254636
 稿	gao	254038
 陶	tao	253994
 模	mo	253646
+肺	fei	253441
 置	zhi	253305
 拨	bo	253129
 舒	shu	253091
 坑	keng	252660
-羽	yu	252194
 限	xian	252052
 栋	dong	251812
 辣	la	251264
@@ -1438,9 +1438,10 @@ sort: by_weight
 袋	dai	247706
 备	bei	247324
 琳	lin	247235
-枫	feng	246900
 颜	yan	246864
 诸	zhu	245871
+虾	xia	245389
+镜	jing	245265
 域	yu	245204
 霜	shuang	245052
 勒	lei	244638
@@ -1451,7 +1452,6 @@ sort: by_weight
 围	wei	243710
 附	fu	243684
 豪	hao	243642
-肺	fei	243441
 抵	di	243235
 煤	mei	243213
 玄	xuan	243080
@@ -1480,7 +1480,9 @@ sort: by_weight
 哄	hong	237861
 恋	lian	237779
 趟	tang	237162
+误	wu	237135
 震	zhen	236904
+枫	feng	236900
 险	xian	236813
 贺	he	236688
 烤	kao	236526
@@ -1488,8 +1490,8 @@ sort: by_weight
 饰	shi	235845
 盾	dun	235737
 挡	dang	235330
-镜	jing	235265
 诚	cheng	234933
+妻	qi	234763
 控	kong	234425
 锋	feng	234347
 斌	bin	234225
@@ -1499,10 +1501,10 @@ sort: by_weight
 撤	che	233233
 暨	ji	232422
 浓	nong	232347
+莲	lian	232290
 挨	ai	231755
 兆	zhao	231751
 炎	yan	231318
-雾	wu	231182
 瞭	liao	230561
 暖	nuan	230547
 肝	gan	230495
@@ -1527,7 +1529,6 @@ sort: by_weight
 爹	die	227822
 滑	hua	227633
 曼	man	227430
-误	wu	227135
 隆	long	227124
 泛	fan	227031
 己	ji	226809
@@ -1535,10 +1536,8 @@ sort: by_weight
 柱	zhu	225687
 鼠	shu	225645
 沪	hu	225540
-妻	qi	224763
 医	yi	224480
 止	zhi	224476
-鸭	ya	224078
 拐	guai	223918
 润	run	223450
 承	cheng	223168
@@ -1546,13 +1545,13 @@ sort: by_weight
 尹	yin	222756
 躺	tang	222481
 廖	liao	222448
-莲	lian	222290
 私	si	222228
 婚	hun	222001
 扎	zha	221928
 捧	peng	221660
 妞	niu	221365
 冠	guan	221227
+雾	wu	221182
 昂	ang	220912
 摄	she	220195
 阁	ge	220195
@@ -1588,17 +1587,18 @@ sort: by_weight
 葛	ge	214794
 枝	zhi	214493
 妙	miao	214369
+鸭	ya	214078
+抬	tai	213916
 爷	ye	213472
 咪	mi	213230
 韵	yun	213224
 伦	lun	212830
 舔	tian	212802
 苑	yuan	212797
+饼	bing	212723
 亭	ting	212289
 弦	xian	212272
-烫	tang	212184
 吼	hou	212157
-伞	san	212102
 俗	su	212089
 辛	xin	211942
 罢	ba	211924
@@ -1608,7 +1608,6 @@ sort: by_weight
 勾	gou	211260
 符	fu	210978
 积	ji	210820
-涌	yong	210599
 研	yan	210368
 韦	wei	210290
 异	yi	210215
@@ -1641,12 +1640,12 @@ sort: by_weight
 叹	tan	205204
 瞧	qiao	204887
 炮	pao	204839
-鹰	ying	204410
 轴	zhou	204357
 隐	yin	203350
 御	yu	203044
-饼	bing	202723
 唔	en	202681
+烫	tang	202184
+伞	san	202102
 企	qi	202046
 翔	xiang	201994
 染	ran	201882
@@ -1664,6 +1663,7 @@ sort: by_weight
 岭	ling	199472
 荷	he	199274
 弯	wan	199125
+翼	yi	199029
 朗	lang	198827
 艺	yi	198806
 桂	gui	198406
@@ -1676,6 +1676,8 @@ sort: by_weight
 洁	jie	197281
 亩	mu	197246
 棉	mian	197229
+桶	tong	197020
+驴	lv	196789
 倾	qing	196454
 皇	huang	196324
 憋	bie	196261
@@ -1683,6 +1685,7 @@ sort: by_weight
 霞	xia	195654
 赤	chi	195192
 屎	shi	194843
+鹰	ying	194410
 腾	teng	194284
 延	yan	194226
 籍	ji	193941
@@ -1716,7 +1719,6 @@ sort: by_weight
 哲	zhe	189275
 宅	zhai	189164
 祇	qi	189071
-翼	yi	189029
 涵	han	188905
 铭	ming	188543
 钙	gai	188522
@@ -1728,8 +1730,6 @@ sort: by_weight
 纹	wen	187561
 傅	fu	187532
 译	yi	187528
-桶	tong	187020
-驴	lv	186789
 柯	ke	186281
 访	fang	185766
 妮	ni	185615
@@ -1747,7 +1747,6 @@ sort: by_weight
 孝	xiao	184083
 晋	jin	183932
 棋	qi	183881
-冻	dong	183768
 技	ji	183710
 翠	cui	183674
 摇	yao	183486
@@ -1789,7 +1788,6 @@ sort: by_weight
 芯	xin	178500
 损	sun	178380
 昆	kun	178370
-裤	ku	178062
 谋	mou	178029
 尖	jian	177779
 莉	li	177642
@@ -1806,16 +1804,18 @@ sort: by_weight
 醋	cu	176077
 灾	zai	175883
 垫	dian	175788
+墓	mu	175775
 闯	chuang	175601
 仿	fang	175574
 邵	shao	175441
 萌	meng	175343
+粮	liang	175334
 郁	yu	175081
 迹	ji	174880
 姬	ji	174860
 朵	duo	174854
 寿	shou	174824
-锤	chui	174731
+柴	chai	174582
 伍	wu	174480
 暂	zan	174326
 壁	bi	174260
@@ -1824,8 +1824,10 @@ sort: by_weight
 穆	mu	174044
 略	lve	174000
 辞	ci	173942
+冻	dong	173768
 霍	huo	173353
 息	xi	173078
+扇	shan	172786
 腻	ni	172388
 俱	ju	172275
 岸	an	172145
@@ -1834,13 +1836,13 @@ sort: by_weight
 鹿	lu	171597
 漆	qi	171503
 绑	bang	171472
+撮	cuo	171393
 丸	wan	171319
 避	bi	171139
 贪	tan	170971
 痒	yang	170792
 缝	feng	170732
 凝	ning	170731
-鹅	e	170582
 葱	cong	170570
 炉	lu	170543
 婆	po	170335
@@ -1854,11 +1856,13 @@ sort: by_weight
 参	can	168689
 沾	zhan	168603
 伸	shen	168597
+钩	gou	168512
 审	shen	168503
 秘	mi	168336
 浮	fu	168314
 荡	dang	168299
 券	quan	168208
+裤	ku	168062
 柏	bai	168016
 郝	hao	167994
 翁	weng	167395
@@ -1876,10 +1880,8 @@ sort: by_weight
 悦	yue	166129
 固	gu	166004
 娟	juan	165982
-墓	mu	165775
 伪	wei	165683
 什	shen	165453
-粮	liang	165334
 幻	huan	165291
 斑	ban	165247
 恐	kong	165122
@@ -1887,7 +1889,7 @@ sort: by_weight
 悲	bei	164957
 殷	yin	164863
 衫	shan	164851
-柴	chai	164582
+锤	chui	164731
 猴	hou	164482
 逆	ni	164408
 怨	yuan	163994
@@ -1905,8 +1907,8 @@ sort: by_weight
 摩	mo	162920
 谱	pu	162874
 熙	xi	162858
-扇	shan	162786
 蹭	ceng	162657
+涌	yong	162419
 决	jue	162329
 胎	tai	162119
 递	di	162062
@@ -1914,7 +1916,6 @@ sort: by_weight
 芸	yun	161654
 噻	sai	161536
 彦	yan	161497
-撮	cuo	161393
 蟹	xie	161342
 舌	she	161282
 忧	you	161143
@@ -1922,6 +1923,7 @@ sort: by_weight
 彬	bin	160914
 漫	man	160861
 盯	ding	160597
+鹅	e	160582
 蜜	mi	160549
 卿	qing	160183
 鹤	he	159935
@@ -1930,7 +1932,6 @@ sort: by_weight
 函	han	159423
 娇	jiao	159172
 筑	zhu	158555
-钩	gou	158512
 缓	huan	158484
 赫	he	157946
 候	hou	157932
@@ -1938,6 +1939,7 @@ sort: by_weight
 琼	qiong	157064
 攒	zan	157029
 叉	cha	156897
+罐	guan	156714
 琪	qi	156680
 堡	bao	156591
 映	ying	156574
@@ -1957,6 +1959,7 @@ sort: by_weight
 汝	ru	154969
 掏	tao	154865
 昨	zuo	154839
+坝	ba	154819
 务	wu	154582
 闭	bi	154344
 绣	xiu	154285
@@ -1976,7 +1979,6 @@ sort: by_weight
 漂	piao	152404
 诉	su	152358
 澳	ao	152298
-齿	chi	152173
 妆	zhuang	152165
 慌	huang	152085
 酱	jiang	152076
@@ -2014,7 +2016,6 @@ sort: by_weight
 触	chu	147165
 裙	qun	147101
 辰	chen	146957
-罐	guan	146714
 默	mo	146705
 奉	feng	146635
 莹	ying	146466
@@ -2023,6 +2024,7 @@ sort: by_weight
 炖	dun	146182
 儒	ru	145933
 灶	zao	145913
+壶	hu	145852
 卜	bo	145770
 拥	yong	145537
 疑	yi	145324
@@ -2045,13 +2047,13 @@ sort: by_weight
 僧	seng	143048
 突	tu	142960
 迁	qian	142761
-铃	ling	142755
 霸	ba	142710
 境	jing	142516
 邮	you	142422
 摊	tan	142337
 赠	zeng	142227
 埃	ai	142198
+齿	chi	142173
 裸	luo	142063
 账	zhang	141778
 颈	jing	141631
@@ -2099,6 +2101,7 @@ sort: by_weight
 束	shu	137413
 铲	chan	137390
 仕	shi	137382
+粪	fen	137325
 掐	qia	137205
 锌	xin	137192
 寨	zhai	137179
@@ -2113,7 +2116,6 @@ sort: by_weight
 牠	ta	136240
 吞	tun	135992
 稀	xi	135961
-壶	hu	135852
 砂	sha	135846
 棍	gun	135820
 恰	qia	135621
@@ -2138,6 +2140,7 @@ sort: by_weight
 颠	dian	133075
 霖	lin	133043
 慕	mu	132810
+铃	ling	132755
 宿	su	132508
 盲	mang	132503
 坎	kan	132332
@@ -2147,7 +2150,6 @@ sort: by_weight
 繁	fan	131873
 仇	chou	131695
 媚	mei	131667
-坝	ba	131659
 坦	tan	131646
 穗	sui	131615
 钮	niu	131487
@@ -2184,11 +2186,9 @@ sort: by_weight
 况	kuang	128107
 敷	fu	128039
 遮	zhe	127913
-擡	tai	127861
 跃	yue	127490
 桩	zhuang	127414
 幕	mu	127340
-粪	fen	127325
 习	xi	127276
 署	shu	126989
 佬	lao	126966
@@ -2201,8 +2201,6 @@ sort: by_weight
 竖	shu	126565
 丙	bing	126529
 禅	chan	126508
-坟	fen	126459
-狮	shi	126294
 卧	wo	126210
 窑	yao	125833
 责	ze	125650
@@ -2231,7 +2229,6 @@ sort: by_weight
 筹	chou	123761
 荒	huang	123740
 艘	sou	123685
-篮	lan	123644
 奎	kui	123636
 绳	sheng	123636
 召	zhao	123361
@@ -2263,7 +2260,6 @@ sort: by_weight
 栗	li	120875
 卦	gua	120855
 靖	jing	120781
-渔	yu	120756
 咦	yi	120623
 珊	shan	120512
 弹	tan	120481
@@ -2309,8 +2305,10 @@ sort: by_weight
 碱	jian	116835
 雇	gu	116703
 钠	na	116634
+坟	fen	116459
 轰	hong	116435
 滩	tan	116352
+狮	shi	116294
 舱	cang	116284
 龄	ling	116210
 捂	wu	115852
@@ -2340,6 +2338,7 @@ sort: by_weight
 阀	fa	113772
 缴	jiao	113764
 畅	chang	113723
+篮	lan	113644
 蒲	pu	113465
 柄	bing	113399
 昊	hao	113366
@@ -2347,9 +2346,9 @@ sort: by_weight
 荫	yin	113147
 晖	hui	112945
 硕	shuo	112934
-嘘	xu	112881
 坠	zhui	112872
-溅	jian	112831
+巢	chao	112855
+爪	zhao	112807
 刃	ren	112687
 屡	lv	112632
 踹	chuai	112628
@@ -2378,6 +2377,7 @@ sort: by_weight
 揽	lan	111132
 措	cuo	110969
 瑜	yu	110871
+渔	yu	110756
 肚	du	110720
 途	tu	110717
 熏	xun	110480
@@ -2401,6 +2401,7 @@ sort: by_weight
 闸	zha	108807
 揪	jiu	108457
 厉	li	108392
+梳	shu	108296
 蒜	suan	108278
 婉	wan	108253
 逝	shi	108252
@@ -2440,6 +2441,7 @@ sort: by_weight
 窦	dou	105563
 詹	zhan	105488
 察	cha	105389
+笛	di	105301
 枣	zao	105266
 闫	yan	105217
 廉	lian	105171
@@ -2463,11 +2465,10 @@ sort: by_weight
 拎	lin	104173
 睿	rui	104081
 颂	song	103982
-婴	ying	103923
 溶	rong	103827
 绘	hui	103809
 媛	yuan	103792
-馋	chan	103726
+翅	chi	103755
 腊	la	103415
 危	wei	103389
 瞪	deng	103328
@@ -2478,9 +2479,9 @@ sort: by_weight
 巫	wu	103093
 禹	yu	102963
 愚	yu	102933
-巢	chao	102855
+嘘	xu	102881
+溅	jian	102831
 焕	huan	102810
-爪	zhao	102807
 蜀	shu	102746
 钾	jia	102609
 冢	zhong	102558
@@ -2516,7 +2517,6 @@ sort: by_weight
 芒	mang	100321
 钵	bo	100112
 杏	xing	100092
-袜	wa	100079
 灿	can	100064
 垒	lei	100033
 冥	ming	99992
@@ -2533,14 +2533,12 @@ sort: by_weight
 茅	mao	98701
 耻	chi	98395
 搏	bo	98383
-梳	shu	98296
 媒	mei	98135
 塑	su	97957
 皓	hao	97917
 卑	bei	97904
 筱	xiao	97826
 抠	kou	97808
-蚝	hao	97590
 拂	fu	97587
 凄	qi	97475
 嫂	sao	97466
@@ -2568,6 +2566,7 @@ sort: by_weight
 豫	yu	96127
 夷	yi	96117
 彤	tong	96089
+梯	ti	96030
 玮	wei	95902
 贰	er	95767
 荆	jing	95739
@@ -2581,7 +2580,6 @@ sort: by_weight
 氟	fu	95463
 的	di	95341
 煞	sha	95328
-笛	di	95301
 乍	zha	95218
 茜	qian	95166
 浙	zhe	95165
@@ -2598,13 +2596,13 @@ sort: by_weight
 氯	lv	94043
 磕	ke	94003
 渴	ke	93986
-翅	chi	93755
+婴	ying	93923
 茎	jing	93738
+馋	chan	93726
 慎	shen	93725
 滥	lan	93582
 陀	tuo	93547
 屠	tu	93470
-蚁	yi	93313
 估	gu	93260
 蕊	rui	93230
 炜	wei	92983
@@ -2620,8 +2618,6 @@ sort: by_weight
 谨	jin	92413
 胀	zhang	92404
 靓	liang	92401
-禽	qin	92354
-抬	tai	92236
 墩	dun	92065
 瓣	ban	92026
 捣	dao	91942
@@ -2630,7 +2626,7 @@ sort: by_weight
 愣	leng	91873
 惑	huo	91867
 葵	kui	91858
-鸽	ge	91711
+咗	zuo	91801
 觅	mi	91382
 徽	hui	91365
 梓	zi	91348
@@ -2650,8 +2646,8 @@ sort: by_weight
 镁	mei	90348
 貌	mao	90330
 螺	luo	90329
-秃	tu	90200
 藻	zao	90174
+袜	wa	90079
 舜	shun	90077
 绵	mian	90060
 硫	liu	90011
@@ -2672,7 +2668,6 @@ sort: by_weight
 翰	han	89122
 侵	qin	89087
 纤	xian	89083
-驿	yi	88843
 溯	su	88815
 挫	cuo	88698
 俏	qiao	88643
@@ -2692,18 +2687,19 @@ sort: by_weight
 佣	yong	87872
 昔	xi	87701
 泳	yong	87670
+蚝	hao	87590
 诀	jue	87576
 玫	mei	87524
 呸	pei	87496
 腕	wan	87472
 妥	tuo	87348
 睁	zheng	87317
+窥	kui	87176
 钰	yu	87131
 虐	nve	87092
 眺	tiao	87090
 迫	po	87029
 概	gai	87014
-蝎	xie	87002
 踪	zong	86908
 炭	tan	86894
 酮	tong	86870
@@ -2716,16 +2712,14 @@ sort: by_weight
 敖	ao	86567
 芙	fu	86513
 掰	bai	86490
-鳄	e	86487
 嚼	jue	86400
+箫	xiao	86386
 瓮	weng	86279
 痣	zhi	86205
 侨	qiao	86153
 迦	jia	86089
-梯	ti	86030
 旱	han	85949
 糕	gao	85946
-鲸	jing	85887
 刁	diao	85668
 绪	xu	85612
 膝	xi	85568
@@ -2777,6 +2771,7 @@ sort: by_weight
 蕴	yun	83394
 镶	xiang	83380
 旬	xun	83368
+蚁	yi	83313
 璐	lu	83122
 酿	niang	83046
 茵	yin	83012
@@ -2791,7 +2786,7 @@ sort: by_weight
 娄	lou	82498
 岑	cen	82439
 冶	ye	82393
-聋	long	82252
+禽	qin	82354
 毫	hao	82248
 锭	ding	82227
 淀	dian	82138
@@ -2802,6 +2797,7 @@ sort: by_weight
 袍	pao	81841
 臻	zhen	81816
 沥	li	81765
+鸽	ge	81711
 勃	bo	81540
 矩	ju	81488
 嵌	qian	81461
@@ -2815,7 +2811,7 @@ sort: by_weight
 陡	dou	81108
 桓	huan	80953
 嗜	shi	80837
-坞	wu	80714
+锯	ju	80770
 秉	bing	80706
 滋	zi	80521
 嗲	dia	80461
@@ -2824,6 +2820,7 @@ sort: by_weight
 疗	liao	80339
 憨	han	80265
 晏	yan	80212
+秃	tu	80200
 役	yi	80158
 皖	wan	80148
 诊	zhen	80105
@@ -2846,10 +2843,10 @@ sort: by_weight
 叽	ji	79069
 髓	sui	79067
 斥	chi	79065
-锚	mao	78905
 嫣	yan	78898
 祠	ci	78884
 靳	jin	78870
+驿	yi	78843
 贸	mao	78825
 掷	zhi	78656
 爵	jue	78639
@@ -2864,10 +2861,10 @@ sort: by_weight
 畴	chou	78455
 雍	yong	78449
 契	qi	78412
-鲨	sha	78356
 叮	ding	78169
 募	mu	78086
 酯	zhi	78075
+蝇	ying	78065
 烙	lao	78022
 芷	zhi	77984
 嫖	piao	77923
@@ -2886,10 +2883,8 @@ sort: by_weight
 桦	hua	77524
 苟	gou	77472
 棕	zong	77427
-枭	xiao	77405
 厦	sha	77374
 溟	ming	77247
-窥	kui	77176
 摁	en	77079
 眸	mou	77068
 慰	wei	77067
@@ -2897,6 +2892,7 @@ sort: by_weight
 阑	lan	77051
 倦	juan	77024
 浊	zhuo	77021
+蝎	xie	77002
 嗅	xiu	76960
 猿	yuan	76859
 榕	rong	76855
@@ -2908,11 +2904,11 @@ sort: by_weight
 诛	zhu	76622
 蚀	shi	76612
 芹	qin	76570
+鳄	e	76487
 巾	jin	76479
 棠	tang	76471
 瞬	shun	76469
 辖	xia	76409
-箫	xiao	76386
 衔	xian	76362
 筛	shai	76351
 淇	qi	76332
@@ -2922,6 +2918,7 @@ sort: by_weight
 珂	ke	76103
 裔	yi	76033
 札	zha	76004
+鲸	jing	75887
 滇	dian	75883
 宛	wan	75841
 履	lv	75736
@@ -2930,7 +2927,9 @@ sort: by_weight
 羡	xian	75666
 琛	chen	75583
 砌	qi	75532
+肏	cao	75521
 婧	jing	75498
+钗	chai	75395
 蝉	chan	75355
 酚	fen	75351
 茬	cha	75347
@@ -3008,8 +3007,10 @@ sort: by_weight
 撰	zhuan	72400
 矢	shi	72319
 羹	geng	72313
+聋	long	72252
 汞	gong	72249
 窃	qie	72203
+盔	kui	72181
 潇	xiao	72139
 崎	qi	72117
 卞	bian	72112
@@ -3043,9 +3044,9 @@ sort: by_weight
 煜	yu	70915
 魄	po	70892
 殇	shang	70835
-锯	ju	70770
 擒	qin	70755
 鳖	bie	70741
+坞	wu	70714
 疤	ba	70706
 硪	wo	70684
 椒	jiao	70650
@@ -3056,6 +3057,7 @@ sort: by_weight
 搽	cha	70528
 煌	huang	70520
 柒	qi	70502
+饵	er	70441
 凿	zao	70431
 陌	mo	70422
 毓	yu	70405
@@ -3093,6 +3095,7 @@ sort: by_weight
 韶	shao	69058
 蓑	suo	69044
 昧	mei	68960
+锚	mao	68905
 茧	jian	68897
 蔓	man	68732
 敛	lian	68699
@@ -3105,6 +3108,7 @@ sort: by_weight
 旷	kuang	68417
 仔	zi	68401
 彰	zhang	68400
+鲨	sha	68356
 堰	yan	68354
 唷	yo	68308
 钞	chao	68307
@@ -3115,19 +3119,18 @@ sort: by_weight
 辊	gun	68150
 嗟	jie	68133
 鞠	ju	68093
-蝇	ying	68065
 侣	lv	68059
 甸	dian	67931
 啮	nie	67908
 釉	you	67821
 铮	zheng	67778
 衷	zhong	67628
-饺	jiao	67625
 鸦	ya	67566
 露	lou	67561
 俭	jian	67501
 恕	shu	67476
 绯	fei	67474
+枭	xiao	67405
 啼	ti	67343
 橘	ju	67327
 蹄	ti	67260
@@ -3151,7 +3154,6 @@ sort: by_weight
 嗣	si	66620
 樽	zun	66541
 漾	yang	66466
-胫	jing	66459
 砼	tong	66368
 窟	ku	66338
 璧	bi	66337
@@ -3169,18 +3171,15 @@ sort: by_weight
 褚	chu	65775
 嚷	rang	65696
 挟	xie	65680
-蜗	wo	65655
 彷	pang	65582
 梭	suo	65572
 驼	tuo	65569
 犁	li	65558
 踊	yong	65526
-肏	cao	65521
 巍	wei	65512
 郊	jiao	65490
 睬	cai	65411
 怔	zheng	65397
-钗	chai	65395
 睛	jing	65389
 辜	gu	65330
 叩	kou	65288
@@ -3194,6 +3193,7 @@ sort: by_weight
 栾	luan	65115
 鸾	luan	65110
 谊	yi	65100
+锄	chu	65091
 镖	biao	65061
 溃	kui	64981
 戊	wu	64963
@@ -3273,11 +3273,11 @@ sort: by_weight
 瓢	piao	62523
 畜	chu	62518
 玻	bo	62477
+狸	li	62455
 谎	huang	62417
 卯	mao	62355
 噜	lu	62322
 糙	cao	62299
-盔	kui	62181
 掺	can	62129
 匣	xia	62116
 阉	yan	62090
@@ -3306,7 +3306,6 @@ sort: by_weight
 械	xie	61436
 炯	jiong	61434
 玺	xi	61430
-馕	nang	61401
 躁	zao	61351
 犀	xi	61313
 圹	kuang	61278
@@ -3338,9 +3337,9 @@ sort: by_weight
 锂	li	60519
 鬓	bin	60484
 碾	nian	60469
-饵	er	60441
 囚	qiu	60419
 躬	gong	60398
+裇	xu	60393
 脖	bo	60380
 晤	wu	60344
 暇	xia	60305
@@ -3439,6 +3438,7 @@ sort: by_weight
 窖	jiao	57745
 糸	mi	57733
 勉	mian	57678
+饺	jiao	57625
 鹃	juan	57572
 冼	xian	57524
 扼	e	57489
@@ -3492,6 +3492,7 @@ sort: by_weight
 呱	gu	56481
 缇	ti	56463
 胰	yi	56461
+胫	jing	56459
 撼	han	56449
 峥	zheng	56427
 栅	shan	56401
@@ -3535,6 +3536,7 @@ sort: by_weight
 吁	yu	55681
 獒	ao	55673
 捺	na	55658
+蜗	wo	55655
 熵	shang	55629
 弄	long	55621
 醛	quan	55601
@@ -3564,7 +3566,6 @@ sort: by_weight
 唠	lao	55124
 绾	wan	55115
 拗	ao	55105
-锄	chu	55091
 囿	you	55074
 厥	jue	55071
 喆	zhe	55041
@@ -3584,6 +3585,7 @@ sort: by_weight
 尻	kao	54670
 琨	kun	54669
 圃	pu	54647
+髯	ran	54636
 匝	za	54618
 漱	shu	54611
 唬	hu	54603
@@ -3692,7 +3694,6 @@ sort: by_weight
 柑	gan	52560
 眷	juan	52519
 谕	yu	52490
-狸	li	52455
 獾	huan	52452
 裆	dang	52416
 讳	hui	52415
@@ -3761,6 +3762,7 @@ sort: by_weight
 灬	biao	51421
 驭	yu	51419
 旻	min	51412
+馕	nang	51401
 柿	shi	51366
 簪	zan	51366
 宦	huan	51363
@@ -3798,6 +3800,7 @@ sort: by_weight
 蛹	yong	50971
 孑	jie	50963
 髻	ji	50915
+蜇	zhe	50909
 蟒	mang	50908
 涔	cen	50876
 莘	shen	50852
@@ -3918,6 +3921,7 @@ sort: by_weight
 褂	gua	48899
 颌	he	48898
 沓	da	48897
+蛔	hui	48870
 敕	chi	48862
 愉	yu	48857
 傈	li	48854
@@ -4058,6 +4062,7 @@ sort: by_weight
 婿	xu	46627
 拇	mu	46610
 逵	kui	46606
+帚	zhou	46600
 唵	an	46573
 幔	man	46562
 擀	gan	46561
@@ -4221,7 +4226,6 @@ sort: by_weight
 雉	zhi	44653
 氐	di	44640
 楣	mei	44638
-髯	ran	44636
 苁	cong	44628
 虔	qian	44615
 帷	wei	44611
@@ -4331,6 +4335,7 @@ sort: by_weight
 狩	shou	43458
 禛	zhen	43456
 轲	ke	43419
+蠕	ru	43404
 忱	chen	43394
 钿	tian	43381
 荧	ying	43361
@@ -4354,7 +4359,6 @@ sort: by_weight
 噙	qin	43112
 瓤	rang	43107
 哏	gen	43106
-鲗	zei	43101
 鸳	yuan	43095
 衹	zhi	43081
 乇	tuo	43073
@@ -4388,6 +4392,7 @@ sort: by_weight
 厩	jiu	42749
 碴	cha	42738
 媳	xi	42734
+麋	mi	42731
 掸	dan	42730
 肮	ang	42730
 塬	yuan	42726
@@ -4635,7 +4640,6 @@ sort: by_weight
 卍	wan	40924
 褉	xie	40921
 拚	pan	40919
-蜇	zhe	40909
 铱	yi	40892
 岢	ke	40888
 咻	xiu	40887
@@ -4816,6 +4820,7 @@ sort: by_weight
 嚄	huo	39661
 関	guan	39661
 垚	yao	39649
+豌	wan	39644
 羔	gao	39640
 姒	si	39634
 瞩	zhu	39631
@@ -4853,6 +4858,7 @@ sort: by_weight
 劭	shao	39504
 叵	po	39502
 苣	ju	39481
+鸮	xiao	39470
 缭	liao	39445
 沮	ju	39436
 爰	yuan	39436
@@ -4946,7 +4952,6 @@ sort: by_weight
 诽	fei	38913
 膦	lin	38897
 踵	zhong	38876
-蛔	hui	38870
 蟠	pan	38846
 売	mai	38821
 龅	bao	38819
@@ -4960,6 +4965,7 @@ sort: by_weight
 宀	mian	38795
 惚	hu	38792
 氛	fen	38791
+镕	rong	38791
 骛	wu	38786
 唻	lai	38785
 瞰	kan	38782
@@ -4973,6 +4979,7 @@ sort: by_weight
 乛	ya	38701
 掱	pa	38701
 淂	de	38701
+霰	xian	38700
 栉	zhi	38697
 鞅	yang	38686
 笫	zi	38672
@@ -5002,7 +5009,6 @@ sort: by_weight
 牍	du	38556
 馁	nei	38556
 菏	he	38551
-镕	rong	38551
 貉	hao	38546
 戋	jian	38525
 鸬	lu	38523
@@ -5167,6 +5173,7 @@ sort: by_weight
 胪	lu	37619
 亵	xie	37614
 俅	qiu	37612
+赟	yun	37611
 魑	chi	37609
 抟	tuan	37606
 诮	qiao	37604
@@ -5284,7 +5291,6 @@ sort: by_weight
 佶	ji	37028
 褔	fu	37020
 稗	bai	37018
-赟	yun	37011
 蓦	mo	37010
 迨	dai	37008
 佼	jiao	36995
@@ -5334,7 +5340,6 @@ sort: by_weight
 孪	luan	36783
 潋	lian	36782
 紸	zhu	36781
-霰	san	36780
 杲	gao	36770
 醌	kun	36763
 岜	ba	36761
@@ -5373,7 +5378,6 @@ sort: by_weight
 溱	qin	36603
 丆	han	36602
 亅	jue	36601
-帚	zhou	36600
 忤	wu	36591
 婀	e	36589
 餍	yan	36586
@@ -5441,7 +5445,7 @@ sort: by_weight
 俦	chou	36310
 凊	qing	36301
 玍	ga	36301
-諟	shi	36301
+𬤊	shi	36301
 攞	luo	36300
 獐	zhang	36284
 愫	su	36270
@@ -5491,6 +5495,7 @@ sort: by_weight
 黜	chu	36085
 坍	tan	36084
 旆	pei	36084
+旸	yang	36079
 腴	yu	36079
 侽	nan	36061
 誊	teng	36058
@@ -5539,7 +5544,7 @@ sort: by_weight
 钍	tu	35839
 姖	ju	35827
 畱	liu	35821
-瞓	shui	35820
+瞓	fen	35820
 骷	ku	35810
 徇	xun	35806
 嘧	mi	35804
@@ -5594,7 +5599,6 @@ sort: by_weight
 浯	wu	35618
 裼	ti	35618
 嫚	man	35614
-旸	yang	35599
 佥	qian	35597
 慊	qian	35597
 臆	yi	35597
@@ -5708,7 +5712,7 @@ sort: by_weight
 煋	xing	35108
 劲	jing	35101
 榝	sha	35101
-詪	hen	35101
+𬣳	hen	35101
 戝	zei	35092
 龀	chen	35089
 擤	xing	35083
@@ -5812,6 +5816,7 @@ sort: by_weight
 腆	tian	34685
 咾	lao	34683
 彑	ji	34681
+甴	zha	34681
 続	xu	34681
 莔	meng	34681
 逦	li	34669
@@ -5885,6 +5890,7 @@ sort: by_weight
 榱	cui	34392
 歙	she	34382
 兎	tu	34381
+嫲	ma	34381
 燚	yi	34381
 稹	zhen	34381
 粿	guo	34381
@@ -6061,7 +6067,7 @@ sort: by_weight
 侢	dai	33781
 冄	ran	33781
 厾	du	33781
-綄	huan	33781
+𬘫	huan	33781
 锸	cha	33773
 蝽	chun	33762
 磴	deng	33761
@@ -6161,7 +6167,6 @@ sort: by_weight
 蛞	kuo	33415
 锒	lang	33413
 硗	qiao	33412
-蠕	ru	33404
 愬	su	33401
 嫘	lei	33385
 邙	mang	33385
@@ -6231,6 +6236,7 @@ sort: by_weight
 掾	yuan	33104
 峋	xun	33102
 蹼	pu	33101
+鲗	zei	33101
 仴	wo	33094
 襦	ru	33091
 暾	tun	33088
@@ -6328,7 +6334,6 @@ sort: by_weight
 畛	zhen	32736
 偓	wo	32735
 绔	ku	32733
-麋	mi	32731
 衽	ren	32728
 诋	di	32726
 柟	nan	32725
@@ -6393,7 +6398,6 @@ sort: by_weight
 岽	dong	32482
 麂	ji	32480
 獍	jing	32479
-鐩	sui	32474
 觊	ji	32470
 跸	bi	32470
 蔵	zang	32468
@@ -6563,6 +6567,7 @@ sort: by_weight
 繴	bi	31861
 菢	bao	31861
 険	xian	31861
+𬭼	sui	31861
 閮	ting	31837
 硇	nao	31830
 嚭	pi	31829
@@ -6628,10 +6633,10 @@ sort: by_weight
 筼	yun	31624
 噉	dan	31623
 丮	ji	31621
-綪	qian	31621
 舎	she	31621
 莃	xi	31621
 隂	yin	31621
+𬘬	qian	31621
 茳	jiang	31620
 蚍	pi	31620
 戕	qiang	31613
@@ -6689,6 +6694,7 @@ sort: by_weight
 埌	lang	31403
 馇	cha	31398
 袼	ge	31396
+鸰	ling	31395
 鋽	diao	31385
 稲	dao	31381
 観	guan	31381
@@ -6697,7 +6703,6 @@ sort: by_weight
 讦	jie	31346
 觇	chan	31345
 鸶	si	31345
-鸰	ling	31335
 耩	jiang	31329
 悱	fei	31326
 铙	nao	31325
@@ -6876,7 +6881,7 @@ sort: by_weight
 燿	yao	30721
 禤	xuan	30721
 蓙	zuo	30721
-鯻	la	30721
+𬶟	la	30721
 湪	tuan	30718
 剤	ji	30704
 缋	hui	30703
@@ -7045,6 +7050,7 @@ sort: by_weight
 苚	yong	30181
 蕥	ya	30181
 垱	dang	30167
+珰	dang	30163
 堞	die	30158
 肭	na	30153
 敉	mi	30147
@@ -7088,7 +7094,6 @@ sort: by_weight
 桄	guang	30002
 澥	xie	30002
 薫	xun	30002
-僤	dan	30001
 厎	di	30001
 嬑	yi	30001
 徥	shi	30001
@@ -7096,7 +7101,7 @@ sort: by_weight
 戻	ti	30001
 萠	pan	30001
 葔	hou	30001
-珰	dang	29983
+𫢸	dan	30001
 蝮	fu	29965
 邗	han	29960
 僬	jiao	29953
@@ -7180,7 +7185,6 @@ sort: by_weight
 伉	kang	29648
 叆	ai	29647
 铽	te	29645
-豌	wan	29644
 篝	gou	29643
 乧	dou	29641
 啴	chan	29641
@@ -7231,7 +7235,6 @@ sort: by_weight
 聒	gua	29489
 崕	ya	29481
 皯	gan	29477
-鸮	xiao	29470
 呪	zhou	29469
 抨	peng	29467
 鳡	gan	29467
@@ -7326,7 +7329,6 @@ sort: by_weight
 渋	se	29161
 脡	ting	29161
 蔢	po	29161
-暐	wei	29160
 鍝	yu	29155
 鞨	he	29150
 伅	dun	29138
@@ -7343,6 +7345,7 @@ sort: by_weight
 窷	liao	29101
 豿	gou	29101
 𣲘	wu	29101
+𬀩	wei	29101
 堜	lian	29100
 眬	long	29100
 槻	gui	29097
@@ -7471,7 +7474,6 @@ sort: by_weight
 渑	mian	28643
 怍	zuo	28638
 仼	wang	28635
-墠	shan	28635
 赙	fu	28628
 悛	quan	28624
 睥	pi	28624
@@ -7621,6 +7623,7 @@ sort: by_weight
 脙	xiu	28201
 覇	ba	28201
 铫	yao	28201
+𫮃	shan	28201
 楯	dun	28168
 砒	pi	28164
 夛	duo	28158
@@ -7630,9 +7633,9 @@ sort: by_weight
 垧	shang	28147
 澌	si	28147
 澉	gan	28146
-絪	yin	28142
 祘	suan	28141
 銄	xiang	28141
+𬘡	yin	28141
 狃	niu	28140
 垎	he	28125
 絾	cheng	28111
@@ -7744,6 +7747,7 @@ sort: by_weight
 鄜	fu	27803
 鲉	you	27802
 郐	kuai	27792
+忞	min	27790
 牞	jiu	27784
 愽	bo	27783
 戁	nan	27781
@@ -7831,7 +7835,6 @@ sort: by_weight
 簰	pai	27486
 袆	hui	27485
 簕	le	27481
-鉮	huan	27481
 畠	tian	27459
 犱	ji	27449
 眈	dan	27444
@@ -7878,8 +7881,8 @@ sort: by_weight
 袛	di	27361
 閁	ma	27361
 隬	ni	27361
-鮀	tuo	27361
 鯠	lai	27361
+𬶍	tuo	27361
 曱	yue	27360
 噷	hm	27344
 炵	tong	27341
@@ -7899,8 +7902,8 @@ sort: by_weight
 椠	qian	27301
 歯	chi	27301
 犽	ya	27301
-礐	que	27301
 鞎	hen	27301
+𬒈	que	27301
 狲	sun	27297
 檺	gao	27257
 蜢	meng	27253
@@ -8130,7 +8133,6 @@ sort: by_weight
 齁	hou	26648
 楢	you	26645
 蹒	pan	26645
-綎	ting	26644
 亹	wei	26643
 吅	xuan	26643
 疬	li	26643
@@ -8170,6 +8172,7 @@ sort: by_weight
 抰	yang	26581
 璑	wu	26581
 𫍽	xuan	26581
+𬘩	ting	26581
 皢	xiao	26580
 磻	pan	26580
 喌	zhou	26577
@@ -8192,8 +8195,8 @@ sort: by_weight
 虵	she	26521
 賎	jian	26521
 趠	chuo	26521
-鍭	hou	26521
 魊	yu	26521
+𬭤	hou	26521
 鑸	lei	26510
 啋	cai	26509
 潗	ji	26505
@@ -8223,7 +8226,6 @@ sort: by_weight
 惣	zong	26417
 遹	yu	26416
 櫈	deng	26409
-鮈	ju	26407
 晧	hao	26405
 梏	gu	26404
 鲊	zha	26404
@@ -8239,6 +8241,7 @@ sort: by_weight
 脟	lie	26401
 諵	nan	26401
 陦	dao	26401
+𬶋	ju	26401
 洖	wu	26376
 弸	peng	26371
 麇	jun	26365
@@ -8255,11 +8258,11 @@ sort: by_weight
 涷	dong	26341
 艂	feng	26341
 苠	min	26341
-訏	xu	26341
 迬	zhu	26341
 騀	e	26341
 騩	gui	26341
 𦰏	diao	26341
+𬣙	xu	26341
 掮	qian	26333
 魰	wen	26326
 棿	ni	26324
@@ -8335,13 +8338,13 @@ sort: by_weight
 翯	he	26161
 賱	yun	26161
 赪	cheng	26161
-齮	yi	26161
 𫍯	xian	26161
+𬱖	di	26161
+𬺈	yi	26161
 踯	zhi	26160
 旇	pi	26152
 暍	ye	26131
 噰	yong	26125
-綝	chen	26113
 穼	shen	26109
 儵	shu	26104
 祔	fu	26104
@@ -8354,7 +8357,6 @@ sort: by_weight
 脝	heng	26101
 轾	zhi	26101
 鏸	hui	26101
-頔	di	26101
 顕	xian	26101
 箣	ce	26099
 笌	ya	26083
@@ -8373,6 +8375,7 @@ sort: by_weight
 泘	hu	26041
 辿	chan	26041
 𧮪	zhan	26041
+𬘭	chen	26041
 竷	kan	26027
 叿	hong	26019
 捊	pou	25989
@@ -8466,7 +8469,6 @@ sort: by_weight
 揎	xuan	25765
 骎	qin	25762
 獴	meng	25755
-鮠	wei	25755
 姁	xu	25750
 藦	mo	25748
 惞	xin	25747
@@ -8709,7 +8711,6 @@ sort: by_weight
 毞	pi	25147
 皕	bi	25145
 祦	wu	25145
-鋹	chang	25145
 澊	cun	25144
 冞	mi	25142
 奜	fei	25141
@@ -8723,6 +8724,7 @@ sort: by_weight
 貭	zhi	25141
 遰	di	25141
 靤	bao	25141
+𬬮	chang	25141
 墍	xi	25133
 泦	ju	25132
 僛	qi	25125
@@ -8745,9 +8747,9 @@ sort: by_weight
 橃	fa	25081
 滵	mi	25081
 漀	qing	25081
-瓅	li	25081
 竒	qi	25081
 骵	ti	25081
+𬍛	li	25081
 搢	jin	25080
 颟	man	25080
 扠	cha	25067
@@ -8784,7 +8786,6 @@ sort: by_weight
 檗	bo	24965
 旼	min	24964
 彟	yue	24963
-騑	fei	24963
 凘	si	24962
 攠	mi	24962
 盻	xi	24962
@@ -8804,6 +8805,7 @@ sort: by_weight
 鮂	qiu	24961
 麤	cu	24961
 𣗋	dang	24961
+𬴂	fei	24961
 瘊	hou	24960
 豞	hou	24937
 粍	zhe	24930
@@ -8834,7 +8836,6 @@ sort: by_weight
 璈	ao	24899
 湶	quan	24892
 瘯	cu	24892
-諲	yin	24887
 崱	ze	24874
 鍎	tu	24861
 橸	jing	24860
@@ -8868,7 +8869,6 @@ sort: by_weight
 慓	piao	24801
 觔	jin	24795
 隷	li	24795
-忞	min	24790
 猢	hu	24790
 鳇	huang	24787
 敭	yang	24786
@@ -8884,13 +8884,13 @@ sort: by_weight
 屛	ping	24781
 曀	yi	24781
 渇	ke	24781
-澫	wan	24781
 甽	zhen	24781
 膮	xiao	24781
 莁	wu	24781
 誏	lang	24781
 趐	xue	24781
 闁	bao	24781
+𬇕	wan	24781
 婅	ju	24775
 瓑	li	24759
 綅	qin	24741
@@ -8914,12 +8914,11 @@ sort: by_weight
 脺	cui	24721
 逥	hui	24721
 鯹	xing	24721
-镐	gao	24712
+𬶏	wei	24721
 鳀	ti	24686
 橓	shun	24684
 铦	xian	24674
 矝	jin	24673
-詝	zhu	24668
 龁	he	24668
 鉏	chu	24664
 傪	can	24662
@@ -8937,6 +8936,7 @@ sort: by_weight
 蒳	na	24661
 迊	za	24661
 髈	bang	24661
+𬣞	zhu	24661
 遝	ta	24660
 櫌	you	24652
 鐚	ya	24640
@@ -9020,7 +9020,6 @@ sort: by_weight
 頬	jia	24454
 皊	ling	24443
 攉	huo	24441
-頠	wei	24441
 簮	zan	24438
 粶	lu	24430
 瘑	guo	24423
@@ -9040,11 +9039,11 @@ sort: by_weight
 賷	ji	24421
 靇	long	24421
 鰗	hu	24421
+𬱟	wei	24421
 礌	lei	24397
 挒	lie	24386
 鐟	zan	24371
 洈	wei	24370
-鄩	xun	24368
 奡	ao	24366
 襌	dan	24363
 仸	yao	24361
@@ -9061,11 +9060,12 @@ sort: by_weight
 貐	yu	24361
 趧	ti	24361
 蹖	chong	24361
-輶	you	24361
 鈻	si	24361
 銉	yu	24361
 頋	e	24361
 黰	zhen	24361
+𬨎	you	24361
+𬩽	xun	24361
 姢	juan	24346
 坶	mu	24344
 敹	liao	24340
@@ -9102,7 +9102,6 @@ sort: by_weight
 倴	ben	24243
 歃	sha	24243
 楱	zou	24242
-紞	dan	24242
 帋	zhi	24241
 揃	jian	24241
 泂	jiong	24241
@@ -9142,6 +9141,7 @@ sort: by_weight
 跐	ci	24181
 醐	hu	24181
 鹓	yuan	24181
+𬘘	dan	24181
 撙	zun	24180
 蒺	ji	24180
 堛	bi	24165
@@ -9153,7 +9153,6 @@ sort: by_weight
 畯	jun	24125
 鲹	shen	24125
 帡	ping	24123
-晛	xian	24123
 棑	pai	24123
 槚	jia	24123
 飐	zhan	24123
@@ -9177,6 +9176,7 @@ sort: by_weight
 鎕	tang	24121
 鐌	xiang	24121
 𫚭	lie	24121
+𬀪	xian	24121
 斾	pei	24118
 擭	wo	24114
 皦	jiao	24090
@@ -9217,7 +9217,6 @@ sort: by_weight
 縦	zong	24008
 昚	shen	24007
 蜍	chu	24007
-鋐	hong	24007
 薾	er	24005
 怳	huang	24003
 乷	sha	24001
@@ -9233,6 +9232,7 @@ sort: by_weight
 趯	ti	24001
 辁	quan	24001
 𢫬	sa	24001
+𬭎	hong	24001
 燋	jiao	24000
 秷	zhi	23987
 褃	ken	23982
@@ -9247,13 +9247,11 @@ sort: by_weight
 亸	duo	23945
 孭	mie	23945
 丒	chou	23942
-鷟	zhuo	23942
 喼	jie	23941
 塈	ji	23941
 墈	kan	23941
 琁	xuan	23941
 筃	yin	23941
-纆	mo	23941
 莿	ci	23941
 褩	ban	23941
 鏶	ji	23941
@@ -9262,6 +9260,8 @@ sort: by_weight
 餥	fei	23941
 鬺	shang	23941
 鯸	hou	23941
+𬙊	mo	23941
+𬸦	zhuo	23941
 娮	yan	23940
 骒	ke	23940
 瓟	bo	23937
@@ -9342,7 +9342,6 @@ sort: by_weight
 鋕	zhi	23767
 岍	qian	23766
 灚	jiao	23764
-鎓	weng	23764
 癙	shu	23763
 踟	chi	23763
 伮	nu	23761
@@ -9357,6 +9356,7 @@ sort: by_weight
 葍	fu	23761
 袩	zhe	23761
 鉱	kuang	23761
+𬭩	weng	23761
 劧	zhi	23746
 傉	nu	23725
 睆	huan	23719
@@ -9505,7 +9505,6 @@ sort: by_weight
 僽	zhou	23403
 鞓	ting	23403
 疎	shu	23402
-釿	jin	23402
 偨	ci	23401
 僩	xian	23401
 匄	gai	23401
@@ -9525,6 +9524,7 @@ sort: by_weight
 鐴	bi	23401
 鮽	yu	23401
 鶾	han	23401
+𬬱	jin	23401
 醡	zha	23380
 潅	guan	23368
 铚	zhi	23364
@@ -9580,6 +9580,7 @@ sort: by_weight
 輐	wan	23281
 逰	you	23281
 黣	mei	23281
+𬤇	yin	23281
 粈	rou	23280
 倸	cai	23271
 羍	da	23271
@@ -9630,7 +9631,6 @@ sort: by_weight
 乚	yin	23161
 咓	wa	23161
 嘋	xiao	23161
-垻	ba	23161
 妠	na	23161
 峃	xue	23161
 棎	chan	23161
@@ -9720,7 +9720,6 @@ sort: by_weight
 鄮	mao	22987
 镤	pu	22987
 墹	jian	22985
-蝀	dong	22985
 挸	jian	22984
 唽	xi	22983
 狴	bi	22983
@@ -9735,8 +9734,10 @@ sort: by_weight
 罫	gua	22981
 萯	fu	22981
 蕐	hua	22981
+踭	zheng	22981
 餙	shi	22981
 骹	qiao	22981
+𬟽	dong	22981
 侭	jin	22980
 冁	chan	22980
 筢	pa	22980
@@ -9817,11 +9818,10 @@ sort: by_weight
 耟	ju	22801
 聅	che	22801
 荶	yin	22801
-鏻	lin	22801
 鐷	ye	22801
 饦	tuo	22801
+𬭸	lin	22801
 歛	han	22800
-錞	chun	22798
 鎱	yuan	22785
 粙	zhou	22772
 寚	bao	22763
@@ -9845,6 +9845,7 @@ sort: by_weight
 馡	fei	22741
 駺	lang	22741
 龒	long	22741
+𬭚	chun	22741
 紩	zhi	22722
 岋	e	22706
 眹	zhen	22692
@@ -9887,7 +9888,6 @@ sort: by_weight
 榅	wen	22623
 惏	lan	22622
 腂	lei	22622
-駉	jiong	22622
 丩	jiu	22621
 乣	jiu	22621
 偡	zhan	22621
@@ -9916,6 +9916,7 @@ sort: by_weight
 黪	can	22621
 𤾀	ze	22621
 𪨶	she	22621
+𬳶	jiong	22621
 堬	yu	22609
 獙	bi	22595
 澘	shan	22590
@@ -9950,7 +9951,6 @@ sort: by_weight
 粰	fu	22559
 爞	chong	22536
 腝	ni	22530
-闉	yin	22529
 窛	kou	22527
 祴	gai	22513
 棪	yan	22511
@@ -9981,6 +9981,7 @@ sort: by_weight
 郚	wu	22501
 酄	huan	22501
 駏	ju	22501
+𬮱	yin	22501
 踡	quan	22500
 帿	hou	22498
 洜	luo	22476
@@ -10051,6 +10052,7 @@ sort: by_weight
 鎀	xiu	22336
 嫎	pang	22327
 镴	la	22326
+朏	fei	22325
 脎	sa	22324
 狔	ni	22323
 稊	ti	22323
@@ -10119,7 +10121,6 @@ sort: by_weight
 蹡	qiang	22211
 嫧	ze	22207
 墣	pu	22205
-朏	fei	22205
 湑	xu	22203
 犨	chou	22203
 盬	gu	22203
@@ -10194,7 +10195,6 @@ sort: by_weight
 飂	liu	22141
 𤦀	mi	22141
 𫘪	yuan	22141
-驎	lin	22118
 崌	ju	22104
 棽	shen	22093
 媴	yuan	22087
@@ -10209,7 +10209,6 @@ sort: by_weight
 碞	yan	22082
 蚖	yuan	22082
 佊	bi	22081
-廞	xin	22081
 怐	ju	22081
 昄	ban	22081
 沺	tian	22081
@@ -10222,6 +10221,8 @@ sort: by_weight
 𥮾	can	22081
 𨐈	guang	22081
 𫟹	hong	22081
+𫷷	xin	22081
+𬴊	lin	22081
 崈	chong	22078
 櫎	huang	22078
 婏	fan	22075
@@ -10232,7 +10233,6 @@ sort: by_weight
 惙	chuo	22023
 帺	qi	22022
 杫	si	22022
-鉧	mu	22022
 俴	jian	22021
 嘒	hui	22021
 妟	yan	22021
@@ -10252,6 +10252,7 @@ sort: by_weight
 郳	ni	22021
 餻	gao	22021
 鮥	luo	22021
+𬭁	mu	22021
 鑶	cang	22020
 弻	bi	22003
 惌	yuan	21992
@@ -10263,7 +10264,6 @@ sort: by_weight
 枏	nan	21970
 枲	xi	21968
 邘	yu	21968
-鱚	xi	21968
 黮	dan	21968
 倕	chui	21964
 揞	an	21964
@@ -10291,6 +10291,7 @@ sort: by_weight
 醽	ling	21961
 頄	kui	21961
 鸆	yu	21961
+𬶮	xi	21961
 蚚	qi	21960
 欙	lei	21946
 杬	yuan	21943
@@ -10450,10 +10451,10 @@ sort: by_weight
 瓬	fang	21661
 瘃	zhu	21661
 窰	yao	21661
-紃	xun	21661
 綛	ren	21661
 縘	xi	21661
 縤	su	21661
+𬘓	xun	21661
 奱	luan	21660
 粐	hu	21649
 潻	shu	21645
@@ -10491,7 +10492,6 @@ sort: by_weight
 噀	xun	21595
 忥	xi	21593
 勨	xiang	21589
-鸑	yue	21588
 彇	xiao	21586
 嵄	mei	21562
 媖	ying	21554
@@ -10527,6 +10527,7 @@ sort: by_weight
 裓	ge	21541
 諀	pi	21541
 迏	da	21541
+𬸚	yue	21541
 簤	dai	21530
 砫	zhu	21523
 檽	nou	21492
@@ -10554,7 +10555,7 @@ sort: by_weight
 醸	niang	21481
 镮	huan	21481
 鮗	dong	21481
-鮡	zhao	21481
+𬶐	zhao	21481
 晠	sheng	21462
 鐕	zan	21440
 飗	liu	21440
@@ -10681,7 +10682,6 @@ sort: by_weight
 祡	chai	21241
 糥	nuo	21241
 絻	mian	21241
-纕	rang	21241
 芅	yi	21241
 藙	yi	21241
 褧	jiong	21241
@@ -10873,7 +10873,6 @@ sort: by_weight
 𫔍	fan	20941
 𫚒	fu	20941
 舃	xi	20939
-筽	o	20913
 饄	tang	20908
 偦	xu	20906
 潄	shu	20906
@@ -10942,10 +10941,10 @@ sort: by_weight
 茠	hao	20821
 茿	zhu	20821
 蟫	yin	20821
-譓	hui	20821
 讟	du	20821
 霝	ling	20821
 麭	pao	20821
+𬤝	hui	20821
 啿	dan	20820
 叴	qiu	20812
 褢	huai	20804
@@ -10975,7 +10974,6 @@ sort: by_weight
 擳	zhi	20761
 擸	lie	20761
 晼	wan	20761
-璗	dang	20761
 癓	wei	20761
 秊	nian	20761
 罞	mao	20761
@@ -10986,6 +10984,7 @@ sort: by_weight
 霦	bin	20761
 靘	qing	20761
 𦈐	lian	20761
+𬍡	dang	20761
 跅	tuo	20760
 刕	li	20746
 嬁	deng	20746
@@ -11077,6 +11076,7 @@ sort: by_weight
 阓	hui	20582
 乐	yue	20581
 刧	jie	20581
+囖	lo	20581
 孉	quan	20581
 揂	jiu	20581
 旐	zhao	20581
@@ -11123,7 +11123,6 @@ sort: by_weight
 澺	yi	20521
 煐	ying	20521
 牑	bian	20521
-璕	xun	20521
 穘	xiao	20521
 簊	ji	20521
 脻	jie	20521
@@ -11135,6 +11134,7 @@ sort: by_weight
 頟	e	20521
 鵻	zhui	20521
 𨅬	lan	20521
+𬍤	xun	20521
 腽	wa	20520
 崏	min	20507
 眻	yang	20504
@@ -11359,7 +11359,6 @@ sort: by_weight
 掅	qing	20161
 搻	nuo	20161
 旟	yu	20161
-浿	pei	20161
 淲	biao	20161
 溣	lun	20161
 澑	liu	20161
@@ -11382,8 +11381,10 @@ sort: by_weight
 鼒	zi	20161
 𥬠	chou	20161
 𦈛	zuo	20161
-鉥	shu	20160
+𬇙	pei	20161
+𬬸	shu	20161
 蚑	qi	20152
+筽	ou	20133
 瑴	jue	20116
 泒	gu	20111
 儙	qian	20108
@@ -11457,10 +11458,10 @@ sort: by_weight
 雑	za	20041
 鞙	xuan	20041
 騨	tuo	20041
-鰊	lian	20041
 鴋	fang	20041
 鵙	ju	20041
 麌	yu	20041
+𬶠	lian	20041
 踦	yi	20027
 嫢	gui	20015
 鷶	mai	19998
@@ -11486,7 +11487,6 @@ sort: by_weight
 礿	yue	19981
 穦	pin	19981
 筕	hang	19981
-篢	long	19981
 綩	wan	19981
 繱	cong	19981
 肎	ken	19981
@@ -11498,6 +11498,7 @@ sort: by_weight
 鹔	su	19981
 黓	yi	19981
 龂	yin	19981
+𬕂	long	19981
 墤	kuai	19963
 猇	xiao	19960
 槢	xi	19954
@@ -11629,7 +11630,7 @@ sort: by_weight
 靮	di	19801
 鬭	dou	19801
 𫓶	xuan	19801
-醲	nong	19800
+𬪩	nong	19801
 壂	dian	19788
 睌	man	19763
 榾	gu	19759
@@ -11692,7 +11693,6 @@ sort: by_weight
 媩	hu	19681
 帟	yi	19681
 抈	yue	19681
-燀	chan	19681
 矒	meng	19681
 硊	wei	19681
 礵	shuang	19681
@@ -11708,6 +11708,7 @@ sort: by_weight
 醧	yu	19681
 飡	can	19681
 馝	bi	19681
+𬊤	chan	19681
 櫜	gao	19680
 痄	zha	19680
 啛	cui	19658
@@ -11769,7 +11770,6 @@ sort: by_weight
 堄	ni	19561
 妦	feng	19561
 旽	tun	19561
-漍	guo	19561
 璓	xiu	19561
 畣	da	19561
 皃	mao	19561
@@ -11793,6 +11793,7 @@ sort: by_weight
 錌	an	19561
 馠	han	19561
 髴	fu	19561
+𬇹	guo	19561
 鷇	kou	19560
 罿	chong	19528
 帤	ru	19527
@@ -11988,10 +11989,10 @@ sort: by_weight
 蘱	lei	19261
 讆	wei	19261
 隒	yan	19261
-隮	ji	19261
 鮢	zhu	19261
 鶽	sun	19261
 𫠜	ni	19261
+𬯀	ji	19261
 韹	huang	19238
 瘇	zhong	19233
 藋	diao	19233
@@ -12204,7 +12205,6 @@ sort: by_weight
 艩	qi	18961
 芀	tiao	18961
 芖	zhi	18961
-蔄	man	18961
 藇	xu	18961
 蘪	mei	18961
 謶	zhuo	18961
@@ -12215,6 +12215,7 @@ sort: by_weight
 髷	qu	18961
 黦	yue	18961
 龗	ling	18961
+𬜬	man	18961
 檲	tuan	18945
 哵	ba	18929
 挦	xian	18924
@@ -12297,9 +12298,9 @@ sort: by_weight
 迌	tu	18841
 隃	shu	18841
 鞌	an	18841
-鶱	xian	18841
 麰	mou	18841
 𨱑	huang	18841
+𬸣	xian	18841
 樷	cong	18831
 挧	yu	18805
 肙	yuan	18794
@@ -12374,12 +12375,12 @@ sort: by_weight
 跓	zhu	18721
 踆	cun	18721
 鄸	meng	18721
-鉊	zhao	18721
 鋧	xian	18721
 雥	za	18721
 雦	ji	18721
 靭	ren	18721
 魠	tuo	18721
+𬬿	zhao	18721
 溵	yin	18720
 躭	dan	18720
 筟	fu	18718
@@ -12445,7 +12446,6 @@ sort: by_weight
 嬼	liu	18601
 崣	wei	18601
 廐	jiu	18601
-彄	kou	18601
 捈	tu	18601
 氊	zhan	18601
 濌	ta	18601
@@ -12467,6 +12467,7 @@ sort: by_weight
 馺	sa	18601
 骭	gan	18601
 鼫	shi	18601
+𫸩	kou	18601
 诪	zhou	18600
 鼪	sheng	18600
 壃	jiang	18588
@@ -12793,10 +12794,10 @@ sort: by_weight
 陾	reng	18181
 霟	hong	18181
 馶	zhi	18181
-駼	tu	18181
 鱳	li	18181
 鶫	dong	18181
 鸁	luo	18181
+𬳿	tu	18181
 斵	zhuo	18180
 瘹	diao	18142
 鎉	da	18132
@@ -12879,13 +12880,13 @@ sort: by_weight
 贀	yi	18061
 躶	luo	18061
 軱	gu	18061
-釴	yi	18061
 鋡	han	18061
 阭	yun	18061
 雭	se	18061
 韺	ying	18061
 骔	zong	18061
 髩	bin	18061
+𬬩	yi	18061
 謷	ao	18060
 齆	weng	18027
 皘	qian	18019
@@ -13121,8 +13122,8 @@ sort: by_weight
 靯	du	17761
 鞟	kuo	17761
 頚	jing	17761
-騞	huo	17761
 魫	shen	17761
+𬴃	huo	17761
 禠	si	17760
 蔪	jian	17745
 岪	fu	17744
@@ -13133,7 +13134,6 @@ sort: by_weight
 楜	hu	17705
 仾	di	17704
 冝	yi	17704
-鰶	ji	17704
 鹐	qian	17704
 笧	ce	17703
 愇	wei	17702
@@ -13170,6 +13170,7 @@ sort: by_weight
 骽	tui	17701
 骾	geng	17701
 鷌	ma	17701
+𬶭	ji	17701
 邩	huo	17692
 甠	qing	17680
 膵	cui	17678
@@ -13264,7 +13265,6 @@ sort: by_weight
 瑇	dai	17526
 锧	zhi	17526
 埐	jin	17523
-娙	xing	17522
 臡	ni	17522
 卼	wu	17521
 呁	jun	17521
@@ -13301,6 +13301,7 @@ sort: by_weight
 鼏	mi	17521
 𦝼	lv	17521
 𫠆	kui	17521
+𫰛	xing	17521
 蛓	ci	17513
 厧	dian	17478
 蚇	chi	17477
@@ -13348,7 +13349,6 @@ sort: by_weight
 譺	ai	17431
 劯	zhu	17423
 棙	li	17421
-鱀	ji	17420
 嵺	liao	17419
 閴	qu	17407
 旲	tai	17405
@@ -13378,6 +13378,7 @@ sort: by_weight
 鯲	yu	17401
 鶳	shi	17401
 𣍯	yun	17401
+𬶨	ji	17401
 鬴	fu	17379
 褠	gou	17373
 籝	ying	17367
@@ -13615,7 +13616,6 @@ sort: by_weight
 嵶	ruo	17044
 嘷	hao	17042
 籆	yue	17042
-鵏	bu	17042
 凩	mu	17041
 哪	ne	17041
 塜	zhong	17041
@@ -13637,7 +13637,6 @@ sort: by_weight
 苲	zha	17041
 萖	wan	17041
 蝩	chong	17041
-諓	jian	17041
 諔	chu	17041
 賉	xu	17041
 鑈	nie	17041
@@ -13646,6 +13645,8 @@ sort: by_weight
 鹒	geng	17041
 鼅	zhi	17041
 齅	xiu	17041
+𬣡	jian	17041
+𬷕	bu	17041
 粭	he	17033
 鑜	shang	17025
 穨	tui	17012
@@ -13701,9 +13702,7 @@ sort: by_weight
 婒	tan	16922
 摙	lian	16922
 朚	huang	16922
-梜	jia	16922
 勏	bu	16921
-埨	lun	16921
 妉	dan	16921
 婣	yin	16921
 怋	min	16921
@@ -13713,7 +13712,6 @@ sort: by_weight
 檋	ju	16921
 渪	ru	16921
 灲	xiao	16921
-熰	ou	16921
 爯	cheng	16921
 睗	shi	16921
 硉	lu	16921
@@ -13736,6 +13734,9 @@ sort: by_weight
 餆	yao	16921
 鵤	jiao	16921
 齝	chi	16921
+𫭢	lun	16921
+𬂩	jia	16921
+𬉼	ou	16921
 泧	sa	16892
 躟	rang	16873
 矡	jue	16867
@@ -13744,7 +13745,6 @@ sort: by_weight
 陯	lun	16864
 靊	feng	16864
 尳	gu	16863
-嵽	die	16863
 搳	hua	16863
 羛	yi	16863
 敀	po	16862
@@ -13773,9 +13773,10 @@ sort: by_weight
 轝	yu	16861
 邧	yuan	16861
 阧	dou	16861
-駪	shen	16861
 鵀	ren	16861
 𣺼	dang	16861
+𫶇	die	16861
+𬳽	shen	16861
 蜹	rui	16857
 煍	jiao	16833
 邚	ru	16833
@@ -14103,7 +14104,6 @@ sort: by_weight
 舝	xia	16441
 萀	hu	16441
 葧	bo	16441
-虉	yi	16441
 蝷	li	16441
 蟃	wan	16441
 蟨	jue	16441
@@ -14118,6 +14118,7 @@ sort: by_weight
 鶂	yi	16441
 鶆	lai	16441
 鼃	wa	16441
+𬟁	yi	16441
 癚	dan	16395
 棜	yu	16390
 踳	chuan	16389
@@ -14161,7 +14162,7 @@ sort: by_weight
 鱎	jiao	16381
 鴸	zhu	16381
 鸃	yi	16381
-齘	xie	16381
+𬹼	xie	16381
 捵	chen	16380
 畖	wa	16373
 坃	xun	16371
@@ -14229,6 +14230,7 @@ sort: by_weight
 嶻	jie	16261
 徲	ti	16261
 懻	ji	16261
+揼	beng	16261
 攈	jun	16261
 梥	song	16261
 樴	zhi	16261
@@ -14241,7 +14243,6 @@ sort: by_weight
 穐	qiu	16261
 籏	qi	16261
 粀	zhang	16261
-綧	zhun	16261
 肰	ran	16261
 舦	tai	16261
 蓃	sou	16261
@@ -14256,7 +14257,8 @@ sort: by_weight
 鑮	bo	16261
 鞉	tao	16261
 韯	xian	16261
-齼	chu	16261
+𬘯	zhun	16261
+𬺓	chu	16261
 圼	nie	16219
 劎	jian	16209
 剻	peng	16208
@@ -14419,7 +14421,6 @@ sort: by_weight
 憣	fan	16021
 憥	lao	16021
 捸	tu	16021
-櫍	zhi	16021
 洷	zhi	16021
 淿	bo	16021
 溰	ai	16021
@@ -14452,6 +14453,7 @@ sort: by_weight
 韏	quan	16021
 饳	duo	16021
 黤	yan	16021
+𬃊	zhi	16021
 酧	chou	16020
 踁	jing	15987
 剠	qing	15974
@@ -14570,7 +14572,6 @@ sort: by_weight
 硩	che	15862
 櫡	zhuo	15854
 悂	pi	15845
-塸	ou	15844
 恄	xi	15842
 趷	ke	15842
 卾	e	15841
@@ -14606,6 +14607,7 @@ sort: by_weight
 鷏	tian	15841
 麎	chen	15841
 𢙓	wei	15841
+𫭟	ou	15841
 狧	ta	15840
 蜽	liang	15805
 叜	sou	15793
@@ -14613,7 +14615,6 @@ sort: by_weight
 焤	fu	15785
 肐	ge	15785
 岶	po	15783
-鷭	fan	15783
 癨	huo	15782
 刣	zhong	15781
 旘	zhi	15781
@@ -14640,7 +14641,6 @@ sort: by_weight
 鄪	bi	15781
 鍽	bian	15781
 隇	wei	15781
-隑	gai	15781
 霔	zhu	15781
 靔	tian	15781
 鞷	ge	15781
@@ -14648,6 +14648,8 @@ sort: by_weight
 鳸	hu	15781
 鼜	qi	15781
 𣶩	hua	15781
+𬮿	gai	15781
+𬸪	fan	15781
 醼	yan	15748
 鑅	heng	15740
 乴	xue	15727
@@ -14689,11 +14691,11 @@ sort: by_weight
 陒	gui	15721
 馧	yun	15721
 鳺	fu	15721
-鶠	yan	15721
 鹷	ling	15721
 黳	yi	15721
 齀	wu	15721
 齫	yun	15721
+𬸘	yan	15721
 鞹	kuo	15717
 銐	chi	15700
 敄	wu	15680
@@ -14782,8 +14784,8 @@ sort: by_weight
 鄋	sou	15601
 錹	ken	15601
 霋	qi	15601
-駓	pi	15601
 鸖	he	15601
+𬳵	pi	15601
 硦	luo	15587
 礇	yu	15587
 焺	sheng	15557
@@ -14926,7 +14928,6 @@ sort: by_weight
 毠	jia	15361
 湌	can	15361
 焂	shu	15361
-燖	xun	15361
 燘	mei	15361
 爏	li	15361
 玸	fu	15361
@@ -14947,7 +14948,6 @@ sort: by_weight
 詾	xiong	15361
 誵	xiao	15361
 錓	kong	15361
-鏏	wei	15361
 鐆	sui	15361
 隿	yi	15361
 鱐	su	15361
@@ -14955,6 +14955,8 @@ sort: by_weight
 鵿	sheng	15361
 鼌	chao	15361
 鼘	yuan	15361
+𬊈	xun	15361
+𬭬	wei	15361
 珟	su	15344
 餝	shi	15338
 墧	que	15317
@@ -15396,6 +15398,7 @@ sort: by_weight
 鴖	min	14761
 鴤	zhong	14761
 鷒	tuan	14761
+镐	gao	14712
 虁	kui	14709
 屪	liao	14706
 朻	jiu	14703
@@ -15694,6 +15697,7 @@ sort: by_weight
 鬗	man	14281
 鵗	xi	14281
 鵱	lu	14281
+岃	ren	14269
 鎑	ye	14236
 焃	he	14228
 酻	zui	14224
@@ -15832,10 +15836,10 @@ sort: by_weight
 跊	mei	14041
 遌	e	14041
 鍻	jie	14041
-隤	tui	14041
 靵	niu	14041
 驐	dun	14041
 龝	qiu	14041
+𬯎	tui	14041
 嶡	gui	13989
 豴	di	13988
 鑍	ying	13988
@@ -16418,6 +16422,7 @@ sort: by_weight
 騡	quan	12841
 黊	hua	12841
 龣	jue	12841
+𨱄	tu	12841
 祼	guan	12787
 懖	kuo	12781
 攌	huan	12781
@@ -16440,6 +16445,7 @@ sort: by_weight
 骿	pian	12781
 齂	xie	12781
 鍿	zi	12742
+鈪	e	12725
 鶑	ying	12725
 暆	yi	12724
 榗	jian	12722
@@ -16861,11 +16867,11 @@ sort: by_weight
 翇	fu	11401
 蘮	ji	11401
 蠗	zhuo	11401
-軝	qi	11401
 郻	qiao	11401
 鎨	sun	11401
 鑡	chuo	11401
 陱	ju	11401
+𬨂	qi	11401
 歑	hu	11341
 蝧	ying	11341
 趛	yin	11341
@@ -16926,7 +16932,6 @@ sort: by_weight
 珁	ci	10981
 鎥	tiao	10981
 鰬	qian	10981
-縯	yan	10950
 屫	jue	10925
 硽	yan	10921
 蛵	xing	10921
@@ -16936,6 +16941,7 @@ sort: by_weight
 闝	piao	10921
 鬜	qian	10921
 齤	quan	10921
+𬙂	yan	10921
 鴭	dui	10862
 嶩	nao	10861
 酟	tian	10861
@@ -16967,12 +16973,14 @@ sort: by_weight
 硟	chan	10621
 赹	qiong	10621
 鑇	ji	10621
+杧	mang	10617
 欁	nong	10561
 熩	hu	10561
 踍	qiao	10561
 痺	bi	10501
 窏	wu	10501
 蛶	jie	10501
+冧	lin	10497
 焧	cong	10443
 矎	xuan	10441
 蓔	yao	10441
@@ -16995,7 +17003,7 @@ sort: by_weight
 饖	wei	10261
 騣	zong	10261
 𧹗	wan	10261
-裇	xu	10233
+㖿	xie	10241
 擌	se	10141
 踂	nie	10141
 錉	min	10141
@@ -17009,8 +17017,6 @@ sort: by_weight
 酁	chan	10021
 髚	qiao	10021
 鵈	e	10021
-杧	mang	10017
-㖿	xie	10001
 㡌	mao	10001
 脷	li	10001
 壾	mang	9961
@@ -17059,9 +17065,11 @@ sort: by_weight
 筠	jun	7801
 繙	fan	7724
 仇	qiu	7681
+鎅	jie	7681
 栖	xi	7561
 揹	bei	7500
 么	mo	7381
+冚	kan	7261
 疿	fei	7261
 综	zeng	7261
 锺	zhong	7236
@@ -17093,7 +17101,9 @@ sort: by_weight
 觝	di	6302
 蜺	ni	6242
 釬	han	6241
+擡	tai	6181
 䲡	qiu	6001
+掹	meng	6001
 𪎉	xian	6001
 呱	gua	5941
 耤	ji	5941
@@ -17103,12 +17113,12 @@ sort: by_weight
 殑	jing	5821
 崳	yu	5787
 咀	zui	5761
-咁	gan	5761
 苺	mei	5653
 耑	duan	5651
 茜	xi	5581
 鑵	guan	5575
 钜	ju	5568
+嚡	hai	5521
 栎	yue	5521
 粧	zhuang	5477
 欸	ai	5403
@@ -17121,6 +17131,7 @@ sort: by_weight
 舋	xin	5101
 抹	ma	5041
 乜	nie	4981
+踎	mou	4921
 袪	qu	4862
 唛	mai	4861
 圈	juan	4741
@@ -17132,6 +17143,7 @@ sort: by_weight
 么	ma	4561
 掴	guo	4561
 鶏	ji	4561
+膶	run	4501
 岙	ao	4450
 瘉	yu	4393
 牟	mu	4381
@@ -17156,7 +17168,9 @@ sort: by_weight
 伺	si	3961
 俟	si	3961
 数	shuo	3961
+拃	zha	3908
 呲	zi	3901
+啩	gua	3841
 氀	shu	3841
 溺	niao	3841
 锗	zhe	3816
@@ -17167,10 +17181,12 @@ sort: by_weight
 挝	zhua	3721
 徬	pang	3695
 圩	xu	3661
+啹	ju	3640
 洀	zhou	3601
 伕	fu	3566
 浚	xun	3481
 焯	zhuo	3481
+癦	me	3481
 贲	ben	3375
 儅	dang	3361
 落	la	3361
@@ -17182,10 +17198,12 @@ sort: by_weight
 拚	pin	3121
 熨	yu	3121
 轧	ga	3121
+閪	se	3121
 匮	kui	3088
 锶	si	3000
 鏈	lian	2960
 埜	ye	2901
+罉	cheng	2882
 㱩	du	2881
 吱	zi	2881
 校	jiao	2881
@@ -17213,6 +17231,7 @@ sort: by_weight
 碌	liu	2341
 鍚	yang	2323
 鍒	rou	2309
+唥	lang	2281
 颤	zhan	2281
 颏	ke	2267
 匙	chi	2221
@@ -17228,6 +17247,7 @@ sort: by_weight
 畜	xu	2101
 绿	lu	2101
 茍	ji	2101
+叾	liao	2044
 伽	jia	2041
 折	she	2041
 幷	bing	2036
@@ -17235,21 +17255,21 @@ sort: by_weight
 僣	tie	1981
 昰	xia	1981
 欹	qi	1981
+焾	nian	1981
 菫	jin	1981
 降	xiang	1981
 厖	mang	1921
 峤	qiao	1921
 櫂	zhao	1921
-霰	xian	1921
 龈	yin	1921
 𪟝	ji	1921
 瓖	xiang	1901
 卬	ang	1885
+嚒	me	1884
 購	gou	1875
 胖	pan	1861
 莔	xi	1861
 豉	chi	1861
-岃	ren	1849
 缜	zhen	1846
 侗	tong	1801
 槛	jian	1801
@@ -17258,6 +17278,7 @@ sort: by_weight
 偪	bi	1744
 期	ji	1741
 潪	zhi	1741
+𢭃	duan	1741
 搾	zha	1684
 䍀	lan	1681
 巷	hang	1681
@@ -17267,14 +17288,17 @@ sort: by_weight
 𨱔	zun	1681
 钿	dian	1664
 鏃	zu	1660
+脌	nin	1623
 栒	xun	1622
 譔	zhuan	1622
 其	ji	1621
 堡	pu	1621
 戏	hu	1621
 犵	he	1621
+矋	lei	1621
 铊	tuo	1621
 萹	bian	1620
+諲	yin	1607
 珲	hui	1596
 硷	jian	1581
 奇	ji	1561
@@ -17282,6 +17306,7 @@ sort: by_weight
 乾	qian	1551
 鎵	jia	1510
 侥	yao	1501
+嗱	na	1501
 嚓	cha	1501
 撦	che	1501
 箄	bi	1501
@@ -17296,6 +17321,8 @@ sort: by_weight
 囝	nan	1441
 夂	zhong	1441
 烙	luo	1441
+鱰	shu	1441
+膥	cun	1419
 媞	zhi	1381
 嬷	mo	1381
 晻	yan	1381
@@ -17314,6 +17341,8 @@ sort: by_weight
 備	bei	1305
 堝	guo	1284
 辗	nian	1280
+蹾	dun	1273
+㖭	tian	1261
 刹	cha	1261
 棏	zhe	1261
 煖	xuan	1261
@@ -17352,8 +17381,10 @@ sort: by_weight
 鎶	ge	1077
 鍛	duan	1050
 闃	qu	1046
+鮠	wei	1035
 龇	zi	1035
 谘	zi	1031
+擝	meng	1026
 䜣	xin	1021
 峇	ke	1021
 浍	kuai	1021
@@ -17374,6 +17405,7 @@ sort: by_weight
 氣	qi	942
 鑰	yao	942
 辂	lu	939
+䳍	gong	901
 偅	tong	901
 刨	bao	901
 屏	bing	901
@@ -17419,6 +17451,7 @@ sort: by_weight
 荠	qi	781
 菹	zu	781
 褚	zhu	781
+酜	fu	781
 鬲	li	781
 鲑	xie	781
 鸟	diao	781
@@ -17426,6 +17459,7 @@ sort: by_weight
 閬	lang	747
 钭	tou	734
 㑩	luo	721
+㩒	qin	721
 䦅	shan	721
 亲	qing	721
 傀	kui	721
@@ -17469,6 +17503,8 @@ sort: by_weight
 幞	fu	638
 橦	tong	626
 氬	ya	626
+艔	dao	617
+鐩	sui	614
 赕	dan	605
 侚	xun	604
 浬	li	602
@@ -17547,7 +17583,6 @@ sort: by_weight
 潬	tan	481
 砵	e	481
 絜	xie	481
-綄	wan	481
 脧	zui	481
 荥	ying	481
 薙	zhi	481
@@ -17569,6 +17604,7 @@ sort: by_weight
 績	ji	457
 龕	kan	437
 鐐	liao	436
+墠	shan	435
 鑴	xi	434
 楙	mao	427
 褎	xiu	426
@@ -17600,7 +17636,6 @@ sort: by_weight
 种	chong	421
 笓	pi	421
 籓	pan	421
-綪	zheng	421
 繇	you	421
 繇	zhou	421
 色	shai	421
@@ -17608,11 +17643,14 @@ sort: by_weight
 菑	zi	421
 衰	cui	421
 褎	you	421
+躀	guan	421
 迫	pai	421
 鍊	lian	421
 颩	diu	421
 骠	piao	421
 鹘	hu	421
+𨳊	jiu	421
+𨶙	neng	421
 濆	fen	408
 鲭	qing	402
 繬	se	401
@@ -17637,6 +17675,7 @@ sort: by_weight
 㶉	xi	361
 䝙	chu	361
 䞐	chun	361
+䲞	li	361
 倗	ping	361
 偞	zha	361
 偢	zou	361
@@ -17681,7 +17720,6 @@ sort: by_weight
 潰	kui	354
 嚑	xun	348
 颯	sa	342
-膥	cun	339
 劍	jian	338
 氭	dong	337
 鍋	guo	334
@@ -17700,12 +17738,13 @@ sort: by_weight
 齄	zha	306
 榘	ju	302
 䌷	chou	301
+䱛	huo	301
+䴈	ao	301
 且	ju	301
 亘	geng	301
 侅	hai	301
 俔	qian	301
 倘	chang	301
-僤	shan	301
 儗	yi	301
 圌	chui	301
 奘	zhuang	301
@@ -17833,6 +17872,7 @@ sort: by_weight
 齹	cuo	241
 龟	jun	241
 龟	qiu	241
+鿫	ao	241
 𩽾	an	241
 𫍙	yi	241
 𫍰	xi	241
@@ -17874,10 +17914,11 @@ sort: by_weight
 鐤	ding	189
 擄	lu	187
 鑽	zuan	186
-叾	liao	184
+煀	wei	184
 鑹	cuan	183
 囪	cong	182
 簲	pai	182
+㷫	qing	181
 䇲	ce	181
 䇲	jia	181
 丁	zheng	181
@@ -17971,9 +18012,9 @@ sort: by_weight
 鑤	bao	181
 鷰	yan	181
 麇	qun	181
+鿬	tian	181
 𬬻	lu	181
 櫉	chu	179
-冧	lin	177
 旂	qi	176
 線	xian	173
 冮	gang	169
@@ -18017,6 +18058,8 @@ sort: by_weight
 瘮	shen	123
 蹧	zao	123
 忷	xiong	122
+㩗	xi	121
+㩧	bo	121
 㳠	ta	121
 䌹	jiong	121
 䍁	sui	121
@@ -18120,7 +18163,6 @@ sort: by_weight
 筩	yong	121
 箘	qun	121
 粣	se	121
-綝	shen	121
 縡	zeng	121
 约	yao	121
 缾	ping	121
@@ -18159,14 +18201,11 @@ sort: by_weight
 酖	dan	121
 釪	yu	121
 釶	yi	121
-釿	yin	121
-錞	duo	121
 铛	cheng	121
 雚	huan	121
 鞘	shao	121
 骹	xiao	121
 髟	piao	121
-鮈	qu	121
 鮏	zheng	121
 鮕	gu	121
 麺	mian	121
@@ -18252,6 +18291,7 @@ sort: by_weight
 磾	di	74
 顅	qian	74
 掗	ya	73
+綝	chen	73
 儕	chai	72
 奮	fen	72
 摑	guai	72
@@ -18270,6 +18310,7 @@ sort: by_weight
 薹	tai	66
 耂	lao	65
 沨	feng	64
+綎	ting	64
 咷	tao	63
 疍	dan	63
 緗	xiang	63
@@ -18278,12 +18319,32 @@ sort: by_weight
 槼	gui	62
 欍	jiu	62
 熴	kun	62
+紞	dan	62
 綑	kun	62
 缲	qiao	62
 閱	yue	62
 㐁	tian	61
 㐅	wu	61
+㓟	pi	61
+㓤	qia	61
+㖡	ye	61
+㗾	xue	61
+㘭	ao	61
+㜺	zan	61
+㧬	gong	61
+㧾	hu	61
+㨘	xing	61
+㬹	zheng	61
+㳇	fu	61
+㿭	che	61
+㿺	bao	61
 䌸	juan	61
+䏡	shi	61
+䏲	die	61
+䓛	qu	61
+䓝	meng	61
+䓬	zhuo	61
+䲗	xian	61
 丱	kuang	61
 价	jie	61
 儽	luo	61
@@ -18444,7 +18505,6 @@ sort: by_weight
 炮	bao	61
 焌	qu	61
 熯	ran	61
-燀	dan	61
 燆	xiao	61
 狢	mo	61
 狤	jie	61
@@ -18499,7 +18559,6 @@ sort: by_weight
 縿	xiao	61
 繁	po	61
 繵	tan	61
-纕	xiang	61
 缉	qi	61
 缏	pian	61
 缲	sao	61
@@ -18642,18 +18701,37 @@ sort: by_weight
 鰔	xian	61
 鱳	luo	61
 鳺	gui	61
-鵏	pu	61
 鸀	zhu	61
 麕	qun	61
 黮	tan	61
 齵	yu	61
+𠲖	yi	61
+𠶧	dian	61
+𠺘	lang	61
+𠺝	ge	61
+𠺢	jia	61
+𡀔	lu	61
+𡅅	e	61
+𡰪	du	61
+𢱢	suo	61
+𢳂	pie	61
+𣲷	ni	61
+𤘅	ya	61
+𥇢	zhan	61
+𥹉	na	61
+𦢊	bao	61
+𧨾	shan	61
+𨅝	cheng	61
 𨱃	gu	61
 𫚈	xu	61
+𬙋	xiang	61
+暐	wei	60
 厠	ce	59
 鎿	na	59
 檸	ning	58
 葉	ye	58
 蕓	yun	58
+錞	chun	58
 紦	ba	57
 鑼	luo	57
 檻	kan	56
@@ -18681,6 +18759,7 @@ sort: by_weight
 遺	yi	49
 鐝	jue	49
 姦	jian	48
+鸑	yue	48
 矉	pin	47
 綈	ti	47
 殢	ti	46
@@ -18711,7 +18790,6 @@ sort: by_weight
 錶	biao	41
 體	ti	41
 鹼	jian	41
-啹	ju	40
 獊	cang	40
 羪	yang	40
 彙	hui	39
@@ -18720,6 +18798,7 @@ sort: by_weight
 儐	bin	38
 數	shu	38
 碕	qi	38
+驎	lin	38
 橯	lao	37
 綆	geng	37
 罷	ba	37
@@ -18754,6 +18833,7 @@ sort: by_weight
 寶	bao	30
 彞	yi	30
 摐	chuang	30
+縯	yan	30
 聣	ni	30
 講	jiang	30
 鑉	he	30
@@ -18764,6 +18844,7 @@ sort: by_weight
 臢	za	29
 蹻	jue	29
 銷	xiao	29
+闉	yin	29
 儭	chen	28
 彿	fu	28
 檮	tao	28
@@ -18796,7 +18877,6 @@ sort: by_weight
 壓	ya	25
 巼	ba	25
 項	xiang	25
-嚒	me	24
 獨	du	24
 瓔	ying	24
 訢	xin	24
@@ -18831,6 +18911,7 @@ sort: by_weight
 蒕	yun	21
 蘋	ping	21
 贇	yun	21
+頠	wei	21
 麴	qu	21
 兌	dui	20
 嫵	wu	20
@@ -18843,6 +18924,7 @@ sort: by_weight
 療	liao	20
 諂	chan	20
 銼	cuo	20
+鱀	ji	20
 俧	zhi	19
 嘡	tang	19
 嶁	lou	19
@@ -18873,7 +18955,6 @@ sort: by_weight
 敗	bai	17
 梘	jian	17
 橷	dou	17
-艔	dao	17
 銻	ti	17
 鮤	lie	17
 鵰	diao	17
@@ -18942,7 +19023,6 @@ sort: by_weight
 穇	can	13
 簣	kui	13
 蹽	liao	13
-蹾	dun	13
 鈇	fu	13
 閤	ge	13
 驫	biao	13
@@ -19063,7 +19143,6 @@ sort: by_weight
 廚	chu	8
 悅	yue	8
 懍	lin	8
-拃	zha	8
 曆	li	8
 朮	shu	8
 檵	ji	8
@@ -19083,10 +19162,12 @@ sort: by_weight
 緤	xie	8
 與	yu	8
 親	qin	8
+詝	zhu	8
 諛	yu	8
 證	zheng	8
 譚	tan	8
 躘	long	8
+鄩	xun	8
 酂	cuo	8
 鈰	shi	8
 鉤	gou	8
@@ -19094,6 +19175,7 @@ sort: by_weight
 阘	da	8
 霣	yun	8
 預	yu	8
+鱚	xi	8
 鱩	lei	8
 鶒	chi	8
 鸂	xi	8
@@ -19136,6 +19218,7 @@ sort: by_weight
 這	zhe	7
 選	xuan	7
 邁	mai	7
+鋐	hong	7
 鋱	te	7
 鎛	bo	7
 閆	yan	7
@@ -19145,6 +19228,7 @@ sort: by_weight
 餘	yu	7
 駕	jia	7
 騟	yu	7
+鮈	ju	7
 鯒	yong	7
 鱂	jiang	7
 鳒	jian	7
@@ -19161,7 +19245,6 @@ sort: by_weight
 憲	xian	6
 懞	meng	6
 抴	ye	6
-擝	meng	6
 攪	jiao	6
 時	shi	6
 東	dong	6
@@ -19237,6 +19320,7 @@ sort: by_weight
 舉	ju	5
 薑	jiang	5
 虛	xu	5
+蝀	dong	5
 蝟	wei	5
 蠙	pin	5
 襨	dui	5
@@ -19249,8 +19333,8 @@ sort: by_weight
 躻	kong	5
 軹	zhi	5
 輈	zhou	5
-鈪	e	5
 鉠	yang	5
+鋹	chang	5
 鎈	suo	5
 鏐	liu	5
 長	zhang	5
@@ -19271,6 +19355,7 @@ sort: by_weight
 喚	huan	4
 塚	zhong	4
 塢	wu	4
+塸	ou	4
 媼	ao	4
 嶔	qin	4
 廕	yin	4
@@ -19296,7 +19381,6 @@ sort: by_weight
 潑	po	4
 灘	tan	4
 焑	yan	4
-煀	wei	4
 獪	kuai	4
 琺	fa	4
 瑩	ying	4
@@ -19328,6 +19412,7 @@ sort: by_weight
 趙	zhao	4
 軍	jun	4
 鍬	qiao	4
+鎓	weng	4
 雙	shuang	4
 電	dian	4
 顔	yan	4
@@ -19338,6 +19423,7 @@ sort: by_weight
 騰	teng	4
 鯾	bian	4
 鰏	bi	4
+鰶	ji	4
 鳷	zhi	4
 鴴	heng	4
 鵩	fu	4
@@ -19355,6 +19441,7 @@ sort: by_weight
 孫	sun	3
 尡	kun	3
 峂	tong	3
+嵽	die	3
 帳	zhang	3
 庅	mo	3
 廄	jiu	3
@@ -19369,6 +19456,7 @@ sort: by_weight
 懟	dui	3
 擣	dao	3
 攢	zan	3
+晛	xian	3
 曨	long	3
 枴	guai	3
 棄	qi	3
@@ -19425,7 +19513,6 @@ sort: by_weight
 繐	sui	3
 續	xu	3
 職	zhi	3
-脌	nin	3
 腦	nao	3
 萵	wo	3
 薈	hui	3
@@ -19466,6 +19553,7 @@ sort: by_weight
 風	feng	3
 飪	ren	3
 駰	yin	3
+騑	fei	3
 驍	xiao	3
 鰛	wen	3
 鰾	biao	3
@@ -19473,6 +19561,7 @@ sort: by_weight
 鴐	ge	3
 鵐	wu	3
 鷈	ti	3
+鷭	fan	3
 鷯	liao	3
 鸛	guan	3
 黃	huang	3
@@ -19507,6 +19596,7 @@ sort: by_weight
 墳	fen	2
 夢	meng	2
 夾	jia	2
+娙	xing	2
 媽	ma	2
 嬋	chan	2
 嬤	ma	2
@@ -19543,6 +19633,7 @@ sort: by_weight
 擻	sou	2
 攬	lan	2
 暢	chang	2
+梜	jia	2
 條	tiao	2
 棲	qi	2
 椖	peng	2
@@ -19601,6 +19692,7 @@ sort: by_weight
 紗	sha	2
 絀	chu	2
 絕	jue	2
+絪	yin	2
 絲	si	2
 絶	jue	2
 綃	xiao	2
@@ -19609,7 +19701,6 @@ sort: by_weight
 縉	jin	2
 繸	sui	2
 缼	qi	2
-罉	cheng	2
 羆	pi	2
 羋	mi	2
 義	yi	2
@@ -19646,9 +19737,11 @@ sort: by_weight
 鄴	ye	2
 醫	yi	2
 釚	qiu	2
+釿	jin	2
 鈛	guo	2
 鈴	ling	2
 鉅	ju	2
+鉧	mu	2
 銀	yin	2
 銃	chong	2
 銊	xu	2
@@ -19674,6 +19767,7 @@ sort: by_weight
 餬	hu	2
 饸	he	2
 駃	jue	2
+駉	jiong	2
 駔	zang	2
 駤	zhi	2
 騂	xing	2
@@ -19685,8 +19779,10 @@ sort: by_weight
 鱗	lin	2
 鳴	ming	2
 鴷	lie	2
+鵏	bu	2
 鷉	ti	2
 鷓	zhe	2
+鷟	zhuo	2
 鸊	pi	2
 齡	ling	2
 齧	nie	2
@@ -19784,6 +19880,7 @@ sort: by_weight
 㒈	han	1
 㒉	tang	1
 㒊	se	1
+㒋	si	1
 㒌	qiong	1
 㒍	lei	1
 㒎	sa	1
@@ -19849,14 +19946,12 @@ sort: by_weight
 㓜	you	1
 㓝	xing	1
 㓞	qia	1
-㓟	pi	1
 㓠	dian	1
 㓡	fu	1
 㓡	gua	1
 㓢	luo	1
 㓣	qia	1
 㓣	ge	1
-㓤	qia	1
 㓥	tang	1
 㓦	bai	1
 㓧	gan	1
@@ -19865,6 +19960,7 @@ sort: by_weight
 㓩	jie	1
 㓪	lang	1
 㓭	she	1
+㓮	diao	1
 㓯	li	1
 㓰	hua	1
 㓱	tou	1
@@ -20034,7 +20130,6 @@ sort: by_weight
 㖘	zhen	1
 㖟	shou	1
 㖠	nuo	1
-㖡	ye	1
 㖢	qi	1
 㖣	tou	1
 㖤	han	1
@@ -20049,7 +20144,6 @@ sort: by_weight
 㖪	guo	1
 㖪	xu	1
 㖫	ling	1
-㖭	tian	1
 㖮	lun	1
 㖵	ge	1
 㖶	yan	1
@@ -20127,7 +20221,6 @@ sort: by_weight
 㗻	guo	1
 㗼	ye	1
 㗽	xiang	1
-㗾	xue	1
 㗿	he	1
 㗿	xia	1
 㘀	zuo	1
@@ -20175,7 +20268,6 @@ sort: by_weight
 㘫	jing	1
 㘬	ao	1
 㘬	wu	1
-㘭	ao	1
 㘰	zhen	1
 㘱	tan	1
 㘲	ju	1
@@ -20443,7 +20535,6 @@ sort: by_weight
 㜷	xian	1
 㜸	nie	1
 㜹	qu	1
-㜺	zan	1
 㜻	lian	1
 㜼	zhi	1
 㜽	zi	1
@@ -20599,6 +20690,7 @@ sort: by_weight
 㟓	qi	1
 㟔	han	1
 㟖	long	1
+㟗	bin	1
 㟘	tiao	1
 㟙	ze	1
 㟚	qi	1
@@ -20873,6 +20965,7 @@ sort: by_weight
 㣵	ta	1
 㣶	zhan	1
 㣷	ning	1
+㣺	xin	1
 㣻	yi	1
 㣼	ren	1
 㣽	shu	1
@@ -21137,7 +21230,6 @@ sort: by_weight
 㧫	er	1
 㧫	ruan	1
 㧫	rui	1
-㧬	gong	1
 㧭	qiong	1
 㧮	hu	1
 㧯	lao	1
@@ -21159,7 +21251,6 @@ sort: by_weight
 㧻	du	1
 㧼	biao	1
 㧽	gu	1
-㧾	hu	1
 㨀	bing	1
 㨁	zhi	1
 㨂	dong	1
@@ -21191,7 +21282,6 @@ sort: by_weight
 㨕	ying	1
 㨖	zhi	1
 㨗	jie	1
-㨘	xing	1
 㨙	xie	1
 㨙	xi	1
 㨚	xun	1
@@ -21259,11 +21349,9 @@ sort: by_weight
 㩍	ce	1
 㩎	ye	1
 㩐	den	1
-㩒	qin	1
 㩓	hui	1
 㩔	tun	1
 㩖	qiang	1
-㩗	xi	1
 㩘	ni	1
 㩙	sai	1
 㩚	meng	1
@@ -21281,7 +21369,6 @@ sort: by_weight
 㩤	fu	1
 㩦	xie	1
 㩦	xi	1
-㩧	bo	1
 㩨	hui	1
 㩩	qing	1
 㩪	xie	1
@@ -21315,6 +21402,7 @@ sort: by_weight
 㪂	ku	1
 㪃	he	1
 㪄	fu	1
+㪅	geng	1
 㪆	di	1
 㪇	xian	1
 㪈	gui	1
@@ -21479,7 +21567,6 @@ sort: by_weight
 㬵	xiao	1
 㬶	hao	1
 㬸	tiao	1
-㬹	zheng	1
 㬻	huang	1
 㬻	hang	1
 㬼	fu	1
@@ -21609,6 +21696,7 @@ sort: by_weight
 㯀	xuan	1
 㯁	pei	1
 㯂	dai	1
+㯃	qi	1
 㯄	zhi	1
 㯅	pi	1
 㯅	bi	1
@@ -21665,6 +21753,7 @@ sort: by_weight
 㯹	biao	1
 㯺	jian	1
 㯻	gun	1
+㯽	bin	1
 㯾	zao	1
 㯿	lie	1
 㯿	la	1
@@ -21884,7 +21973,6 @@ sort: by_weight
 㳄	xian	1
 㳅	jiao	1
 㳆	tou	1
-㳇	fu	1
 㳈	pei	1
 㳊	you	1
 㳊	zhong	1
@@ -22135,7 +22223,6 @@ sort: by_weight
 㷤	xue	1
 㷦	xu	1
 㷪	cui	1
-㷫	qing	1
 㷬	mo	1
 㷮	zao	1
 㷯	beng	1
@@ -22642,7 +22729,6 @@ sort: by_weight
 㿪	huan	1
 㿫	bi	1
 㿬	ba	1
-㿭	che	1
 㿭	le	1
 㿮	yang	1
 㿯	da	1
@@ -22658,7 +22744,6 @@ sort: by_weight
 㿸	wan	1
 㿸	man	1
 㿹	ta	1
-㿺	bao	1
 㿻	gan	1
 㿼	yan	1
 㿽	xi	1
@@ -22964,6 +23049,7 @@ sort: by_weight
 䄀	huo	1
 䄁	yi	1
 䄂	liu	1
+䄃	yang	1
 䄄	yin	1
 䄅	juan	1
 䄆	huo	1
@@ -23740,7 +23826,6 @@ sort: by_weight
 䏟	bi	1
 䏠	qi	1
 䏠	la	1
-䏡	shi	1
 䏢	bi	1
 䏣	jue	1
 䏤	si	1
@@ -23758,7 +23843,6 @@ sort: by_weight
 䏯	zhi	1
 䏰	run	1
 䏱	ju	1
-䏲	die	1
 䏲	ti	1
 䏳	zhe	1
 䏴	shao	1
@@ -24018,9 +24102,7 @@ sort: by_weight
 䓙	guai	1
 䓚	qu	1
 䓚	cu	1
-䓛	qu	1
 䓜	zhi	1
-䓝	meng	1
 䓞	li	1
 䓟	zhou	1
 䓟	lie	1
@@ -24033,7 +24115,6 @@ sort: by_weight
 䓦	dian	1
 䓧	ci	1
 䓫	qi	1
-䓬	zhuo	1
 䓭	cha	1
 䓮	mao	1
 䓯	du	1
@@ -24427,6 +24508,7 @@ sort: by_weight
 䙱	du	1
 䙳	biao	1
 䙳	e	1
+䙴	qian	1
 䙵	xi	1
 䙷	de	1
 䙸	de	1
@@ -26001,6 +26083,7 @@ sort: by_weight
 䰔	pan	1
 䰕	lu	1
 䰖	zuan	1
+䰗	jiu	1
 䰘	liu	1
 䰘	jiao	1
 䰙	yi	1
@@ -26075,7 +26158,6 @@ sort: by_weight
 䱘	li	1
 䱙	shu	1
 䱚	lu	1
-䱛	huo	1
 䱛	xu	1
 䱛	yi	1
 䱜	cuo	1
@@ -26111,6 +26193,7 @@ sort: by_weight
 䱺	hai	1
 䱻	hua	1
 䱼	zhan	1
+䱽	chang	1
 䱾	lou	1
 䱿	chan	1
 䲀	zhi	1
@@ -26138,13 +26221,11 @@ sort: by_weight
 䲔	qing	1
 䲕	pu	1
 䲖	chou	1
-䲗	xian	1
 䲘	guan	1
 䲙	jie	1
 䲚	lai	1
 䲛	meng	1
 䲜	ye	1
-䲞	li	1
 䲟	yin	1
 䲠	chun	1
 䲢	teng	1
@@ -26191,7 +26272,6 @@ sort: by_weight
 䳊	ba	1
 䳋	tong	1
 䳋	xiao	1
-䳍	gong	1
 䳎	jiu	1
 䳏	gui	1
 䳏	jue	1
@@ -26258,7 +26338,6 @@ sort: by_weight
 䴅	fen	1
 䴆	pu	1
 䴇	ling	1
-䴈	ao	1
 䴉	huan	1
 䴉	xuan	1
 䴊	yi	1
@@ -26678,7 +26757,9 @@ sort: by_weight
 僞	wei	1
 僢	chun	1
 僣	jian	1
+僤	dan	1
 僤	chan	1
+僤	shan	1
 僤	da	1
 僥	yao	1
 僧	ceng	1
@@ -26731,7 +26812,6 @@ sort: by_weight
 冉	dan	1
 冊	ce	1
 册	zha	1
-冚	kan	1
 冥	mian	1
 冯	ping	1
 冰	ning	1
@@ -26975,11 +27055,11 @@ sort: by_weight
 呾	ta	1
 呾	dan	1
 呿	ka	1
+咁	han	1
 咇	bi	1
 咎	gao	1
 咔	nong	1
 咖	jia	1
-咗	zuo	1
 咣	gong	1
 咥	zhi	1
 咦	xi	1
@@ -27053,7 +27133,6 @@ sort: by_weight
 唝	gong	1
 唟	qu	1
 唡	ying	1
-唥	lang	1
 唧	jie	1
 唩	wei	1
 唪	beng	1
@@ -27101,7 +27180,6 @@ sort: by_weight
 啡	bai	1
 啢	ying	1
 啨	qing	1
-啩	gua	1
 啳	quan	1
 啳	jue	1
 啴	tan	1
@@ -27162,7 +27240,6 @@ sort: by_weight
 嗩	suo	1
 嗮	sai	1
 嗰	ge	1
-嗱	na	1
 嗴	qiang	1
 嗹	lian	1
 嗺	sui	1
@@ -27262,7 +27339,6 @@ sort: by_weight
 嚛	yo	1
 嚜	mei	1
 嚜	ma	1
-嚡	hai	1
 嚣	ao	1
 嚤	mo	1
 嚥	yan	1
@@ -27295,7 +27371,6 @@ sort: by_weight
 囑	zhu	1
 囒	lan	1
 囕	lan	1
-囖	lo	1
 囝	yue	1
 囡	nie	1
 团	qiu	1
@@ -27347,6 +27422,7 @@ sort: by_weight
 垸	huan	1
 垺	fou	1
 垺	pei	1
+垻	ba	1
 垻	bei	1
 垾	an	1
 埃	zhi	1
@@ -27362,6 +27438,7 @@ sort: by_weight
 埣	su	1
 埤	bi	1
 埤	bei	1
+埨	lun	1
 埩	cheng	1
 埫	tang	1
 埫	shang	1
@@ -27618,7 +27695,6 @@ sort: by_weight
 嫚	yuan	1
 嫥	tuan	1
 嫧	ce	1
-嫲	ma	1
 嫶	jiao	1
 嫺	xian	1
 嫻	xian	1
@@ -27881,6 +27957,7 @@ sort: by_weight
 廈	sha	1
 廈	xia	1
 廎	qing	1
+廞	xin	1
 廞	qian	1
 廟	miao	1
 廢	fei	1
@@ -27905,6 +27982,7 @@ sort: by_weight
 弲	yuan	1
 強	jiang	1
 彀	kou	1
+彄	kou	1
 彆	bie	1
 彈	tan	1
 彌	ni	1
@@ -28309,7 +28387,6 @@ sort: by_weight
 掫	chou	1
 掱	shou	1
 掶	jie	1
-掹	meng	1
 掺	shan	1
 掾	chuan	1
 揀	jian	1
@@ -28352,7 +28429,6 @@ sort: by_weight
 援	huan	1
 揵	jian	1
 揻	wei	1
-揼	beng	1
 揾	wu	1
 搃	zong	1
 搉	huo	1
@@ -28987,6 +29063,7 @@ sort: by_weight
 檽	ru	1
 櫂	di	1
 櫊	ge	1
+櫍	zhi	1
 櫎	guang	1
 櫎	guo	1
 櫎	gu	1
@@ -29247,6 +29324,7 @@ sort: by_weight
 浹	jia	1
 浹	xia	1
 浽	nei	1
+浿	pei	1
 涀	jian	1
 涂	chu	1
 涂	ye	1
@@ -29416,6 +29494,7 @@ sort: by_weight
 漂	biao	1
 漆	qie	1
 漊	lv	1
+漍	guo	1
 漚	ou	1
 漢	han	1
 漢	tan	1
@@ -29487,6 +29566,7 @@ sort: by_weight
 澨	cuo	1
 澩	xue	1
 澩	xiao	1
+澫	wan	1
 澫	man	1
 澫	ou	1
 澬	zi	1
@@ -29642,7 +29722,6 @@ sort: by_weight
 焸	gu	1
 焻	gua	1
 焽	xiong	1
-焾	nian	1
 焿	geng	1
 煇	hun	1
 煇	yun	1
@@ -29681,7 +29760,10 @@ sort: by_weight
 熣	cui	1
 熥	tong	1
 熨	wei	1
+熰	ou	1
 熾	chi	1
+燀	chan	1
+燀	dan	1
 燂	qian	1
 燉	tun	1
 燋	jue	1
@@ -29690,6 +29772,7 @@ sort: by_weight
 燍	xi	1
 燒	shao	1
 燔	fen	1
+燖	xun	1
 燖	qian	1
 燙	tang	1
 燙	dang	1
@@ -29873,6 +29956,8 @@ sort: by_weight
 璉	lian	1
 璍	ye	1
 璏	zhi	1
+璕	xun	1
+璗	dang	1
 璚	jue	1
 璤	hui	1
 璦	ai	1
@@ -29887,6 +29972,7 @@ sort: by_weight
 璽	xi	1
 璾	zi	1
 璾	ji	1
+瓅	li	1
 瓊	xuan	1
 瓕	xi	1
 瓗	wei	1
@@ -29906,7 +29992,6 @@ sort: by_weight
 甬	dong	1
 甭	qi	1
 由	yao	1
-甴	zha	1
 甴	you	1
 甸	tian	1
 甸	sheng	1
@@ -29992,7 +30077,6 @@ sort: by_weight
 癟	bie	1
 癢	yang	1
 癤	jie	1
-癦	me	1
 癩	lai	1
 癩	la	1
 癬	xuan	1
@@ -30120,7 +30204,6 @@ sort: by_weight
 矆	yue	1
 矆	wo	1
 矈	mian	1
-矋	lei	1
 矌	guo	1
 矖	li	1
 矚	zhu	1
@@ -30238,6 +30321,7 @@ sort: by_weight
 礉	ao	1
 礊	huo	1
 礎	chu	1
+礐	que	1
 礐	hu	1
 礒	yi	1
 礘	qi	1
@@ -30418,6 +30502,7 @@ sort: by_weight
 筧	xian	1
 筩	dong	1
 筴	jia	1
+筽	wu	1
 箁	bu	1
 箁	fu	1
 箁	pu	1
@@ -30445,6 +30530,7 @@ sort: by_weight
 篐	gu	1
 篔	xun	1
 篠	xiao	1
+篢	long	1
 篢	gong	1
 篢	gan	1
 篣	pang	1
@@ -30523,6 +30609,7 @@ sort: by_weight
 糾	jiu	1
 糾	jiao	1
 紂	zhou	1
+紃	xun	1
 約	yue	1
 約	yao	1
 約	di	1
@@ -30603,6 +30690,8 @@ sort: by_weight
 綀	shu	1
 綁	bang	1
 綃	shao	1
+綄	huan	1
+綄	wan	1
 綆	bing	1
 綉	xiu	1
 綌	xi	1
@@ -30613,6 +30702,7 @@ sort: by_weight
 綖	xian	1
 綜	zong	1
 綜	zeng	1
+綝	shen	1
 綝	lin	1
 綞	duo	1
 綟	li	1
@@ -30623,7 +30713,10 @@ sort: by_weight
 綢	tao	1
 綢	diao	1
 綣	quan	1
+綧	zhun	1
+綪	qian	1
 綪	qing	1
+綪	zheng	1
 綫	xian	1
 綬	shou	1
 維	yi	1
@@ -30766,11 +30859,14 @@ sort: by_weight
 纀	fu	1
 纁	xun	1
 纅	li	1
+纆	mo	1
 纈	xie	1
 纊	kuang	1
 纏	chan	1
 纓	ying	1
 纔	shan	1
+纕	rang	1
+纕	xiang	1
 纕	sang	1
 纖	xian	1
 纖	jian	1
@@ -30995,7 +31091,6 @@ sort: by_weight
 膯	tun	1
 膰	pan	1
 膴	mei	1
-膶	run	1
 膸	wei	1
 膹	fen	1
 膻	dan	1
@@ -31290,6 +31385,7 @@ sort: by_weight
 蓽	bi	1
 蓿	su	1
 蔃	jiang	1
+蔄	man	1
 蔇	xi	1
 蔈	piao	1
 蔍	cu	1
@@ -31437,6 +31533,7 @@ sort: by_weight
 虄	sa	1
 虅	teng	1
 虆	lei	1
+虉	yi	1
 虑	bi	1
 虒	xi	1
 虒	ti	1
@@ -31757,6 +31854,7 @@ sort: by_weight
 訌	hong	1
 訍	cha	1
 討	tao	1
+訏	xu	1
 訐	jie	1
 訐	ji	1
 訑	dan	1
@@ -31818,6 +31916,7 @@ sort: by_weight
 詥	ge	1
 試	shi	1
 詧	qie	1
+詪	hen	1
 詫	cha	1
 詫	du	1
 詬	gou	1
@@ -31899,6 +31998,7 @@ sort: by_weight
 諏	zhou	1
 諑	zhuo	1
 諒	liang	1
+諓	jian	1
 諕	huo	1
 論	lun	1
 諗	shen	1
@@ -31907,6 +32007,7 @@ sort: by_weight
 諜	xie	1
 諝	xu	1
 諞	pian	1
+諟	shi	1
 諟	di	1
 諢	hun	1
 諣	hua	1
@@ -32003,6 +32104,7 @@ sort: by_weight
 譏	ji	1
 譑	jiao	1
 譑	qiao	1
+譓	hui	1
 譔	quan	1
 譕	mo	1
 譖	zen	1
@@ -32258,7 +32360,6 @@ sort: by_weight
 踆	qiu	1
 踆	zhun	1
 踉	lang	1
-踎	mou	1
 踐	jian	1
 踑	ji	1
 踒	wei	1
@@ -32280,7 +32381,6 @@ sort: by_weight
 踧	di	1
 踩	kui	1
 踫	pan	1
-踭	zheng	1
 踰	yao	1
 踰	chu	1
 踱	chuo	1
@@ -32330,7 +32430,6 @@ sort: by_weight
 蹻	jiao	1
 蹻	ju	1
 蹻	xue	1
-躀	guan	1
 躂	da	1
 躅	zhuo	1
 躇	chuo	1
@@ -32375,6 +32474,7 @@ sort: by_weight
 軙	qi	1
 軛	e	1
 軜	na	1
+軝	qi	1
 軟	ruan	1
 軤	hu	1
 軥	gou	1
@@ -32439,6 +32539,7 @@ sort: by_weight
 輱	kan	1
 輵	e	1
 輵	qie	1
+輶	you	1
 輷	hong	1
 輸	shu	1
 輹	bu	1
@@ -32626,7 +32727,6 @@ sort: by_weight
 酈	zhi	1
 酐	hang	1
 酛	yuan	1
-酜	fu	1
 酡	duo	1
 酪	luo	1
 酪	lu	1
@@ -32699,6 +32799,7 @@ sort: by_weight
 釰	jian	1
 釲	si	1
 釳	xi	1
+釴	yi	1
 釵	chai	1
 釵	cha	1
 釶	ye	1
@@ -32708,6 +32809,7 @@ sort: by_weight
 釻	qiu	1
 釾	ye	1
 釾	ya	1
+釿	yin	1
 鈀	ba	1
 鈀	pa	1
 鈁	fang	1
@@ -32774,6 +32876,7 @@ sort: by_weight
 鉈	tuo	1
 鉈	ta	1
 鉉	xuan	1
+鉊	zhao	1
 鉋	bao	1
 鉋	pao	1
 鉍	bi	1
@@ -32801,6 +32904,7 @@ sort: by_weight
 鉩	nie	1
 鉬	mu	1
 鉭	tan	1
+鉮	huan	1
 鉮	shen	1
 鉳	bei	1
 鉵	zhuo	1
@@ -32942,6 +33046,7 @@ sort: by_weight
 錛	ben	1
 錜	nie	1
 錞	dui	1
+錞	duo	1
 錟	tan	1
 錟	xian	1
 錟	yan	1
@@ -32982,6 +33087,7 @@ sort: by_weight
 鍊	jian	1
 鍦	she	1
 鍩	nuo	1
+鍭	hou	1
 鍮	tou	1
 鍰	huan	1
 鍱	xie	1
@@ -32994,7 +33100,6 @@ sort: by_weight
 鍼	qian	1
 鎂	mei	1
 鎄	ai	1
-鎅	jie	1
 鎆	qian	1
 鎇	mei	1
 鎈	cha	1
@@ -33030,6 +33135,7 @@ sort: by_weight
 鏂	kou	1
 鏃	chuo	1
 鏉	sou	1
+鏏	wei	1
 鏐	liao	1
 鏑	di	1
 鏒	qiao	1
@@ -33059,6 +33165,7 @@ sort: by_weight
 鏸	rui	1
 鏹	qiang	1
 鏺	po	1
+鏻	lin	1
 鏽	xiu	1
 鏾	san	1
 鏾	xian	1
@@ -33148,7 +33255,6 @@ sort: by_weight
 閤	he	1
 閨	gui	1
 閩	min	1
-閪	se	1
 閬	liang	1
 閵	lin	1
 閶	chang	1
@@ -33237,6 +33343,7 @@ sort: by_weight
 隋	duo	1
 隋	tuo	1
 階	jie	1
+隑	gai	1
 隑	ai	1
 隑	qi	1
 隓	duo	1
@@ -33247,11 +33354,13 @@ sort: by_weight
 隗	gui	1
 隘	e	1
 際	ji	1
+隤	tui	1
 隦	pi	1
 隧	zhui	1
 險	xian	1
 險	jian	1
 險	yan	1
+隮	ji	1
 隯	dao	1
 隰	xie	1
 隱	yin	1
@@ -33300,6 +33409,7 @@ sort: by_weight
 霢	mai	1
 霧	wu	1
 霧	meng	1
+霰	san	1
 霸	po	1
 霻	feng	1
 霼	xi	1
@@ -33400,6 +33510,7 @@ sort: by_weight
 頒	fen	1
 頓	dun	1
 頓	du	1
+頔	di	1
 頕	dian	1
 頗	po	1
 頗	pi	1
@@ -33607,6 +33718,7 @@ sort: by_weight
 駐	zhu	1
 駑	nu	1
 駒	ju	1
+駓	pi	1
 駔	zu	1
 駘	tai	1
 駘	dai	1
@@ -33621,6 +33733,7 @@ sort: by_weight
 駧	dong	1
 駨	xuan	1
 駩	quan	1
+駪	shen	1
 駫	jiong	1
 駭	hai	1
 駱	luo	1
@@ -33628,6 +33741,7 @@ sort: by_weight
 駶	ju	1
 駸	qin	1
 駻	han	1
+駼	tu	1
 駿	jun	1
 騁	cheng	1
 騃	si	1
@@ -33645,6 +33759,7 @@ sort: by_weight
 騚	qian	1
 騜	huang	1
 騝	qian	1
+騞	huo	1
 騤	kui	1
 騤	jue	1
 騧	gua	1
@@ -33775,12 +33890,14 @@ sort: by_weight
 魺	ge	1
 魽	han	1
 魿	lin	1
+鮀	tuo	1
 鮁	bo	1
 鮁	ba	1
 鮃	ping	1
 鮅	bi	1
 鮆	ci	1
 鮆	ji	1
+鮈	qu	1
 鮈	gou	1
 鮊	bo	1
 鮋	chou	1
@@ -33798,6 +33915,7 @@ sort: by_weight
 鮜	hou	1
 鮝	zhen	1
 鮞	er	1
+鮡	zhao	1
 鮥	ge	1
 鮦	tong	1
 鮧	yi	1
@@ -33854,6 +33972,7 @@ sort: by_weight
 鯳	di	1
 鯴	shi	1
 鯶	huan	1
+鯻	la	1
 鯽	zei	1
 鯽	ji	1
 鯿	bian	1
@@ -33864,6 +33983,7 @@ sort: by_weight
 鰈	qie	1
 鰈	zha	1
 鰉	huang	1
+鰊	lian	1
 鰋	yan	1
 鰌	qiu	1
 鰍	qiu	1
@@ -33938,7 +34058,6 @@ sort: by_weight
 鱮	xu	1
 鱮	yu	1
 鱯	hu	1
-鱰	shu	1
 鱲	lie	1
 鱲	la	1
 鱳	lu	1
@@ -34013,6 +34132,7 @@ sort: by_weight
 鵊	jia	1
 鵍	juan	1
 鵍	guan	1
+鵏	pu	1
 鵑	juan	1
 鵒	yu	1
 鵓	bo	1
@@ -34051,6 +34171,7 @@ sort: by_weight
 鶘	hu	1
 鶚	e	1
 鶝	bi	1
+鶠	yan	1
 鶡	he	1
 鶣	bian	1
 鶥	mei	1
@@ -34065,6 +34186,7 @@ sort: by_weight
 鶮	hu	1
 鶯	ying	1
 鶰	yuan	1
+鶱	xian	1
 鶲	weng	1
 鶻	gu	1
 鶻	hu	1
@@ -34192,6 +34314,7 @@ sort: by_weight
 齕	he	1
 齗	yin	1
 齗	yan	1
+齘	xie	1
 齛	shi	1
 齜	chai	1
 齜	zi	1
@@ -34208,6 +34331,7 @@ sort: by_weight
 齬	yu	1
 齬	wu	1
 齭	chu	1
+齮	yi	1
 齮	qi	1
 齯	ni	1
 齰	ze	1
@@ -34218,6 +34342,7 @@ sort: by_weight
 齴	yan	1
 齶	e	1
 齷	wo	1
+齼	chu	1
 齾	ya	1
 齾	e	1
 龍	long	1
@@ -34237,8 +34362,6 @@ sort: by_weight
 鿎	da	1
 鿏	mai	1
 鿕	dan	1
-鿫	ao	1
-鿬	tian	1
 鿭	ni	1
 	ye	1
 	zuo	1
@@ -34325,6 +34448,7 @@ sort: by_weight
 	pi	1
 	yan	1
 	luan	1
+礼	li	1
 𠀀	he	1
 𠀁	qi	1
 𠀃	qie	1
@@ -34346,6 +34470,7 @@ sort: by_weight
 𠀼	qian	1
 𠀼	xia	1
 𠀽	lu	1
+𠁁	dou	1
 𠁉	chu	1
 𠁗	shi	1
 𠁗	he	1
@@ -34360,6 +34485,7 @@ sort: by_weight
 𠂈	tian	1
 𠂑	zou	1
 𠂔	zi	1
+𠂝	za	1
 𠂟	jin	1
 𠂢	pai	1
 𠂤	dui	1
@@ -35283,7 +35409,6 @@ sort: by_weight
 𠲒	han	1
 𠲓	hong	1
 𠲔	yi	1
-𠲖	yi	1
 𠲙	ke	1
 𠲚	yi	1
 𠲛	hui	1
@@ -35367,7 +35492,6 @@ sort: by_weight
 𠵻	zong	1
 𠵼	meng	1
 𠵾	huo	1
-𠶧	dian	1
 𠶨	xi	1
 𠶫	da	1
 𠶬	nang	1
@@ -35464,12 +35588,9 @@ sort: by_weight
 𠺖	mu	1
 𠺖	ying	1
 𠺗	mie	1
-𠺘	lang	1
 𠺙	tui	1
 𠺚	ban	1
-𠺝	ge	1
 𠺟	ku	1
-𠺢	jia	1
 𠺣	bo	1
 𠻍	huan	1
 𠻏	zu	1
@@ -35578,7 +35699,6 @@ sort: by_weight
 𠿥	kui	1
 𠿥	gui	1
 𡀑	zhou	1
-𡀔	lu	1
 𡀔	lou	1
 𡀖	bo	1
 𡀗	shi	1
@@ -35672,7 +35792,6 @@ sort: by_weight
 𡅂	bo	1
 𡅃	pang	1
 𡅄	tan	1
-𡅅	e	1
 𡅅	ei	1
 𡅆	zang	1
 𡅇	cong	1
@@ -36458,7 +36577,6 @@ sort: by_weight
 𡰥	ren	1
 𡰥	yi	1
 𡰨	dang	1
-𡰪	du	1
 𡰫	nian	1
 𡰯	shi	1
 𡰯	diao	1
@@ -37801,7 +37919,6 @@ sort: by_weight
 𢬿	xie	1
 𢭁	xi	1
 𢭂	lao	1
-𢭃	duan	1
 𢭃	dou	1
 𢭄	ji	1
 𢭅	cha	1
@@ -37870,7 +37987,6 @@ sort: by_weight
 𢱟	chan	1
 𢱟	chi	1
 𢱡	suo	1
-𢱢	suo	1
 𢱢	se	1
 𢱣	ji	1
 𢱤	song	1
@@ -37899,7 +38015,6 @@ sort: by_weight
 𢳀	ma	1
 𢳀	mo	1
 𢳁	fei	1
-𢳂	pie	1
 𢳃	yin	1
 𢳄	xuan	1
 𢳆	ao	1
@@ -38512,6 +38627,7 @@ sort: by_weight
 𣔺	mao	1
 𣔻	tu	1
 𣔻	chan	1
+𣔼	gan	1
 𣔽	ji	1
 𣕁	yi	1
 𣕃	yu	1
@@ -39229,7 +39345,6 @@ sort: by_weight
 𣲳	po	1
 𣲵	zhi	1
 𣲶	niu	1
-𣲷	ni	1
 𣲽	rong	1
 𣲾	guai	1
 𣳀	zhi	1
@@ -39604,6 +39719,7 @@ sort: by_weight
 𤍕	you	1
 𤍖	jian	1
 𤍜	zao	1
+𤍠	re	1
 𤍤	zhang	1
 𤍽	ruo	1
 𤎄	yan	1
@@ -39674,6 +39790,7 @@ sort: by_weight
 𤔀	na	1
 𤔉	pao	1
 𤔋	ju	1
+𤔔	luan	1
 𤔖	luo	1
 𤔙	shua	1
 𤔚	shang	1
@@ -39766,7 +39883,6 @@ sort: by_weight
 𤗿	tai	1
 𤘀	dao	1
 𤘃	li	1
-𤘅	ya	1
 𤘆	ya	1
 𤘇	zhan	1
 𤘊	yi	1
@@ -40783,6 +40899,7 @@ sort: by_weight
 𥁵	chong	1
 𥁸	quan	1
 𥁹	she	1
+𥂁	yan	1
 𥂂	meng	1
 𥂃	ju	1
 𥂋	tu	1
@@ -40938,7 +41055,6 @@ sort: by_weight
 𥇞	dian	1
 𥇟	jiao	1
 𥇠	ya	1
-𥇢	zhan	1
 𥇭	zhi	1
 𥇯	mai	1
 𥇰	hu	1
@@ -41358,6 +41474,7 @@ sort: by_weight
 𥗵	xiang	1
 𥗶	lei	1
 𥗺	lan	1
+𥗽	lan	1
 𥗿	la	1
 𥘁	la	1
 𥘄	yu	1
@@ -42134,7 +42251,6 @@ sort: by_weight
 𥹄	mi	1
 𥹆	ming	1
 𥹇	fan	1
-𥹉	na	1
 𥹊	si	1
 𥹋	yi	1
 𥹌	jia	1
@@ -43106,7 +43222,6 @@ sort: by_weight
 𦡼	ning	1
 𦡽	huang	1
 𦢆	ying	1
-𦢊	bao	1
 𦢊	bo	1
 𦢎	guang	1
 𦢏	lei	1
@@ -43824,6 +43939,7 @@ sort: by_weight
 𧀵	jian	1
 𧀵	shan	1
 𧀶	di	1
+𧀹	zhe	1
 𧀺	xie	1
 𧀻	dan	1
 𧀿	zhi	1
@@ -44839,7 +44955,6 @@ sort: by_weight
 𧨷	se	1
 𧨸	tian	1
 𧨹	lu	1
-𧨾	shan	1
 𧨿	zha	1
 𧩃	chong	1
 𧩅	yan	1
@@ -45226,6 +45341,7 @@ sort: by_weight
 𧶲	duan	1
 𧶲	zhuan	1
 𧶵	cha	1
+𧶶	fan	1
 𧶷	ze	1
 𧶸	cheng	1
 𧶺	ting	1
@@ -45663,7 +45779,6 @@ sort: by_weight
 𨅔	can	1
 𨅗	bi	1
 𨅘	peng	1
-𨅝	cheng	1
 𨅣	qiao	1
 𨅤	ji	1
 𨅪	zhai	1
@@ -46506,6 +46621,7 @@ sort: by_weight
 𨦰	liu	1
 𨦱	cong	1
 𨦳	nan	1
+𨧀	du	1
 𨧐	tun	1
 𨧑	xiang	1
 𨧕	bian	1
@@ -46524,6 +46640,7 @@ sort: by_weight
 𨧱	qu	1
 𨧳	chi	1
 𨧵	zhi	1
+𨨏	bo	1
 𨨗	quan	1
 𨨘	qian	1
 𨨙	ya	1
@@ -46611,6 +46728,7 @@ sort: by_weight
 𨭅	zhu	1
 𨭆	hei	1
 𨭉	ban	1
+𨭎	xi	1
 𨭓	die	1
 𨭖	zhan	1
 𨭗	guo	1
@@ -46651,7 +46769,6 @@ sort: by_weight
 𨱀	hu	1
 𨱁	yi	1
 𨱂	e	1
-𨱄	tu	1
 𨱅	zhen	1
 𨱊	qu	1
 𨱏	da	1
@@ -46720,7 +46837,6 @@ sort: by_weight
 𨳂	chan	1
 𨳆	nang	1
 𨳉	xia	1
-𨳊	jiu	1
 𨳋	ji	1
 𨳌	zhen	1
 𨳑	ting	1
@@ -46829,7 +46945,6 @@ sort: by_weight
 𨶊	jun	1
 𨶐	kuo	1
 𨶗	lang	1
-𨶙	neng	1
 𨶜	dou	1
 𨶝	shu	1
 𨶟	jiao	1
@@ -49949,123 +50064,49 @@ sort: by_weight
 𫗮	huang	1
 𫚔	hui	1
 𫛢	ning	1
+𫜷	shou	1
+𫜸	hua	1
 𫟦	sui	1
 𫠊	xuan	1
+𫠥	lou	1
 𫡑	yin	1
-𫢸	dan	1
 𫫇	e	1
-𫭟	ou	1
 𫭟	qu	1
-𫭢	lun	1
 𫭼	lao	1
-𫮃	shan	1
-𫰛	xing	1
+𫮬	jiang	1
 𫵷	li	1
-𫶇	die	1
-𫷷	xin	1
-𫸩	kou	1
-𬀩	wei	1
-𬀪	xian	1
-𬂩	jia	1
-𬃊	zhi	1
-𬇕	wan	1
-𬇙	pei	1
+𫼛	diao	1
+𫽮	dang	1
+𬀷	shang	1
+𬆛	nao	1
 𬇙	bei	1
-𬇹	guo	1
-𬉼	ou	1
-𬊈	xun	1
-𬊤	chan	1
 𬌗	he	1
-𬍛	li	1
-𬍡	dang	1
-𬍤	xun	1
-𬒈	que	1
+𬐚	hai	1
+𬑔	zhong	1
+𬑡	chou	1
 𬒔	geng	1
 𬒗	lan	1
+𬒘	xin	1
 𬓼	tui	1
 𬕂	gong	1
-𬕂	long	1
-𬘓	xun	1
-𬘘	dan	1
-𬘡	yin	1
-𬘩	ting	1
-𬘫	huan	1
-𬘬	qian	1
 𬘭	lin	1
-𬘭	chen	1
-𬘯	zhun	1
-𬙂	yan	1
-𬙊	mo	1
-𬙋	xiang	1
-𬜬	man	1
+𬛸	nie	1
 𬜯	liang	1
 𬞟	pin	1
-𬟁	yi	1
-𬟽	dong	1
-𬣙	xu	1
-𬣞	zhu	1
-𬣡	jian	1
-𬣳	hen	1
-𬤇	yin	1
-𬤊	shi	1
-𬤝	hui	1
 𬤥	zhuan	1
-𬨂	qi	1
-𬨎	you	1
-𬩽	xun	1
-𬪩	nong	1
-𬬩	yi	1
-𬬮	chang	1
-𬬱	jin	1
-𬬸	shu	1
 𬬹	shen	1
-𬬿	zhao	1
-𬭁	mu	1
 𬭊	du	1
-𬭎	hong	1
-𬭚	chun	1
 𬭛	bo	1
-𬭤	hou	1
-𬭩	weng	1
-𬭬	wei	1
 𬭬	hui	1
 𬭯	pie	1
 𬭳	xi	1
 𬭶	hei	1
-𬭸	lin	1
-𬭼	sui	1
-𬮱	yin	1
 𬮿	qi	1
-𬮿	gai	1
-𬯀	ji	1
-𬯎	tui	1
-𬱖	di	1
-𬱟	wei	1
-𬳵	pi	1
-𬳶	jiong	1
-𬳽	shen	1
-𬳿	tu	1
-𬴂	fei	1
-𬴃	huo	1
-𬴊	lin	1
-𬶋	ju	1
-𬶍	tuo	1
-𬶏	wei	1
-𬶐	zhao	1
-𬶟	la	1
-𬶠	lian	1
-𬶨	ji	1
-𬶭	ji	1
-𬶮	xi	1
-𬷕	bu	1
-𬸘	yan	1
-𬸚	yue	1
-𬸣	xian	1
-𬸦	zhuo	1
-𬸪	fan	1
-𬹼	xie	1
-𬺈	yi	1
-𬺓	chu	1
+𬰃	mu	1
+𬲜	cheng	1
+𬳲	chan	1
+𭀖	li	1
+灰	hui	1
 𰻝	biang	1
 𰻞	biang	1
 剗	chan	0
@@ -50092,6 +50133,8 @@ sort: by_weight
 詀	zhan	0
 諡	shi	0
 轣	li	0
+醲	nong	0
+鉥	shu	0
 鍼	zhen	0
 鑞	la	0
 陳	chen	0

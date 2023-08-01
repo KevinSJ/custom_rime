@@ -3755,7 +3755,7 @@ sort: by_weight
 静态块	jing tai kuai	1607
 基础部分	ji chu bu fen	1607
 上位机	shang wei ji	1605
-段长度	duan chang du	1604
+段长度	duan zhang du	1604
 电脑系统	dian nao xi tong	1604
 本地接口	ben di jie kou	1603
 字符串查找	zi fu chuan cha zhao	1603
@@ -10857,7 +10857,7 @@ sort: by_weight
 软件总线	ruan jian zong xian	55
 工作存储器	gong zuo cun chu qi	55
 快速矩阵幂	kuai su ju zhen mi	55
-超长指令字	chao zhang zhi ling zi	55
+超长指令字	chao chang zhi ling zi	55
 运动控制器	yun dong kong zhi qi	55
 平面最近点对	ping mian zui jin dian dui	55
 显式接口实现	xian shi jie kou shi xian	55
@@ -11161,7 +11161,7 @@ sort: by_weight
 组合行为	zu he xing wei	44
 置换密码	zhi huan mi ma	44
 自动开票	zi dong kai piao	44
-超长文本	chao zhang wen ben	44
+超长文本	chao chang wen ben	44
 部件连接	bu jian lian jie	44
 附加文档	fu jia wen dang	44
 中文语料库	zhong wen yu liao ku	44
