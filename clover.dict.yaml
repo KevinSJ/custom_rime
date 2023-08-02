@@ -4,6 +4,11 @@ version: "1"
 sort: by_weight
 
 import_tables:
+  - dicts/base
+  - dicts/8105
+  - dicts/41448
+  - dicts/others
+  - dicts/ext
   - dicts/clover.base
   - dicts/clover.phrase
   - dicts/THUOCL_animal
