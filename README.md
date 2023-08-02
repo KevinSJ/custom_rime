@@ -8,9 +8,9 @@ RIME and TRIME config
 将此repo的所有文件复制到Rime程序文件夹, 不同平台位置不同, 在此不在赘述
 复制完成后，需要重新部署。
 
-Android 上的同文输入法在选择部署之后会崩溃，这可能是因为词库过大的关系无法在手机上正常编译的关系(大约32Mb)。
+~~Android 上的同文输入法在选择部署之后会崩溃，这可能是因为词库过大的关系无法在手机上正常编译的关系(大约32Mb)。--> 崩溃的原因其实是因为symbols.txt中有重复，opencc无法处理重复的键~~
 
-我个人的解决方案是在PC上编译完成后，将build文件夹的词库相关bin文件直接复制到手机的build文件夹中。
+~~我个人的解决方案是在PC上编译完成后，将build文件夹的词库相关bin文件直接复制到手机的build文件夹中。~~
 
 已在Windows 7 和 Linux 系统中测试相关输入法方案，均成功。
 
@@ -20,4 +20,5 @@ https://github.com/osfans/trime -- 同文输入法，开启安卓上使用rime�
 https://github.com/fkxxyz/rime-cloverpinyin -- 大部分词库从此处得来
 https://placeless.net/blog/rime-squirrel-customization-2021 -- 参考部分双拼配置
 https://github.com/cxcn/danjing -- 单静主题, 用于安卓上的同文输入法
-
+https://github.com/iDvel/rime-ice -- 2023 添加，主要参考emoji以及英文共存部分
+https://github.com/tumuyan/rime-melt -- 2023 添加, 参考英文共存部分
