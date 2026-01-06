@@ -15,10 +15,10 @@ RIME and TRIME config
 已在Windows 7 和 Linux 系统中测试相关输入法方案，均成功。
 
 ### 参考资料及感谢
-https://github.com/rime -- rime是最好用的输入法引擎，没有之一
-https://github.com/osfans/trime -- 同文输入法，开启安卓上使用rime的可能性
-https://github.com/fkxxyz/rime-cloverpinyin -- 大部分词库从此处得来
-https://placeless.net/blog/rime-squirrel-customization-2021 -- 参考部分双拼配置
-https://github.com/cxcn/danjing -- 单静主题, 用于安卓上的同文输入法
-https://github.com/iDvel/rime-ice -- 2023 添加，主要参考emoji以及英文共存部分
-https://github.com/tumuyan/rime-melt -- 2023 添加, 参考英文共存部分
+- https://github.com/rime -- rime是最好用的输入法引擎，没有之一
+- https://github.com/osfans/trime -- 同文输入法，开启安卓上使用rime的可能性
+- https://github.com/fkxxyz/rime-cloverpinyin -- 大部分词库从此处得来
+- https://placeless.net/blog/rime-squirrel-customization-2021 -- 参考部分双拼配置
+- https://github.com/cxcn/danjing -- 单静主题, 用于安卓上的同文输入法
+- https://github.com/iDvel/rime-ice -- 2023 添加，主要参考emoji以及英文共存部分
+- https://github.com/tumuyan/rime-melt -- 2023 添加, 参考英文共存部分
