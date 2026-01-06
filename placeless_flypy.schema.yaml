@@ -112,14 +112,14 @@ speller:
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
 
 translator:
-  dictionary: clover
+  dictionary: cn_dict
   prism: placeless_flypy
   contextual_suggestions: true
   initial_quality: 1.2     # 初始权重
 
 # 次翻译器，英文
 melt_eng:
-  dictionary: melt_eng     # 挂载词库 melt_eng.dict.yaml
+  dictionary: en_dict     # 挂载词库 melt_eng.dict.yaml
   enable_sentence: false   # 禁止造句
   enable_user_dict: false  # 禁用用户词典
   initial_quality: 1.1     # 初始权重
