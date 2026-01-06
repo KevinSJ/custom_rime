@@ -714,9 +714,9 @@ preset_keyboards:
       # 第二行
       - { click: '[]{Left}', long_click: '_' }
       - { click: '-', long_click: '±' }
-      - { click: 4 }
-      - { click: 5 }
-      - { click: 6 }
+      - { click: 4, long_click: paste}
+      - { click: 5, long_click: select_all}
+      - { click: 6, long_click: cut_all }
       - { click: Delete, __include: styl/off_func }
       # 第三行
       - { click: '(){Left}', long_click: '!' }
@@ -728,8 +728,8 @@ preset_keyboards:
       # 第四行
       - { click: '=', long_click: '≠' }
       - { click: '/', long_click: '÷' }
-      - { click: space, long_click: paste}
-      - { click: 0 }
+      - { click: space, long_click: select_all }
+      - { click: 0, long_click: paste }
       - { click: '.' }
       - {
           click: Return,
