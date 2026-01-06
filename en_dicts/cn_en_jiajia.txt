@@ -1,0 +1,1 @@
+/home/kevin/Documents/configs/rime_config_android/rime-ice/en_dicts/cn_en_jiajia.txt
